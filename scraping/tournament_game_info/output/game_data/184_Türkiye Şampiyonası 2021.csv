@@ -1,0 +1,27 @@
+tournament_code,date,t1_name,t1_side,t1_picks,t1_bans,t1_result,t2_name,t2_side,t2_picks,t2_bans,t2_result,game_time_str,game_time_sec,match_format_BON,game_no,t1_points,t2_points,tournament_stage
+184,20210814,Chaos,blue,"('Kaja', 'Chou', 'Claude', 'Alice', 'Grock')",(),0,BEDEL,red,"('Rafaela', 'Yve', 'Uranus', 'Barats', 'Roger')",(),1,13:38,818,5,1,0,0,bracket
+184,20210814,Chaos,red,"('Roger', 'Jawhead', 'Pharsa', 'Esmeralda', 'Khufra')",(),0,BEDEL,blue,"('Ruby', 'Yve', 'Benedetta', 'Popol and Kupa', 'Phoveus')",(),1,13:18,798,5,2,0,1,bracket
+184,20210814,Chaos,blue,"('Harley', 'Grock', 'Kagura', 'Esmeralda', 'Jawhead')",(),0,BEDEL,red,"('Ruby', 'Saber', 'Hayabusa', 'Chou', 'Phoveus')",(),1,11:39,699,5,3,0,2,bracket
+184,20210814,Rosso Sangue,red,"('Kaja', 'Selena', 'Roger', 'Uranus', 'Khufra')",(),1,Roulet,blue,"('Gloo', 'Pharsa', 'Lancelot', 'Kagura', 'Barats')",(),0,15:08,908,5,1,0,0,bracket
+184,20210814,Rosso Sangue,blue,"('Kaja', 'Yve', 'Karrie', 'Uranus', 'Khufra')",(),1,Roulet,red,"('Popol and Kupa', 'Pharsa', 'Roger', 'Benedetta', 'Phoveus')",(),0,16:35,995,5,2,1,0,bracket
+184,20210814,Rosso Sangue,blue,"('Chou', 'Lunox', 'Roger', 'Gusion', 'Khufra')",(),1,Roulet,red,"('Ruby', 'Uranus', 'Harley', 'Kagura', 'Silvanna')",(),0,15:03,903,5,3,2,0,bracket
+184,20210821,BEDEL,red,"('Jawhead', 'Barats', ""Chang'e"", 'Ling', 'Gloo')",(),1,Rosso Sangue,blue,"('Akai', 'Yve', 'Karrie', 'X.Borg', 'Kaja')",(),0,14:41,881,5,1,0,0,bracket
+184,20210821,BEDEL,blue,"('X.Borg', 'Yu Zhong', 'Kagura', 'Lancelot', 'Popol and Kupa')",(),1,Rosso Sangue,red,"('Khufra', 'Yi Sun-Shin', 'Ruby', 'Selena', 'Kaja')",(),0,10:36,636,5,2,1,0,bracket
+184,20210821,BEDEL,blue,"('Roger', 'Yve', 'Martis', 'Esmeralda', 'Chou')",(),1,Rosso Sangue,red,"('Estes', 'Lunox', 'Karrie', 'Uranus', 'Kaja')",(),0,17:32,1052,5,3,2,0,bracket
+184,20210815,Last Dance,blue,"('X.Borg', 'Hayabusa', 'Esmeralda', 'Pharsa', 'Khufra')",(),0,X7,red,"('Uranus', 'Yi Sun-Shin', 'Harley', 'Gloo', 'Benedetta')",(),1,17:24,1044,5,1,0,0,bracket
+184,20210815,Last Dance,blue,"('Benedetta', 'Jawhead', 'Kagura', 'Bruno', 'Rafaela')",(),0,X7,red,"('Kaja', 'Harley', 'Yi Sun-Shin', 'Gloo', 'Barats')",(),1,11:38,698,5,2,0,1,bracket
+184,20210815,Last Dance,red,"('Lancelot', 'Gloo', 'Harley', 'Hayabusa', 'Uranus')",(),0,X7,blue,"('Khufra', 'Eudora', 'Roger', 'Kaja', 'Benedetta')",(),1,16:06,966,5,3,0,2,bracket
+184,20210815,Incendio,blue,"('Phoveus', 'Harley', 'Pharsa', 'Esmeralda', 'Jawhead')",(),1,Redemption Esports,red,"('Popol and Kupa', 'Yi Sun-Shin', 'Lylia', 'Kagura', 'X.Borg')",(),0,26:04,1564,5,1,0,0,bracket
+184,20210815,Incendio,red,"('X.Borg', 'Kagura', 'Hayabusa', 'Ruby', 'Popol and Kupa')",(),1,Redemption Esports,blue,"('Jawhead', 'Yi Sun-Shin', 'Alice', 'Harley', 'Silvanna')",(),0,11:22,682,5,2,1,0,bracket
+184,20210815,Incendio,blue,"('Thamuz', 'Jawhead', 'Lancelot', 'Kagura', 'Mathilda')",(),1,Redemption Esports,red,"('Grock', 'Esmeralda', 'Lunox', 'Hayabusa', 'Natalia')",(),0,11:40,700,5,3,2,0,bracket
+184,20210821,X7,red,"('Barats', 'Uranus', 'Roger', 'Kagura', 'Estes')",(),1,Incendio,blue,"('Popol and Kupa', 'Selena', 'Ling', 'Thamuz', ""Chang'e"")",(),0,13:44,824,5,1,0,0,bracket
+184,20210821,X7,red,"('Barats', 'Kaja', 'Lancelot', 'Harley', 'Khufra')",(),0,Incendio,blue,"('Popol and Kupa', 'Lunox', 'Uranus', 'Saber', 'Roger')",(),1,14:25,865,5,2,1,0,bracket
+184,20210821,X7,red,"('Barats', 'Harley', 'Uranus', 'Yi Sun-Shin', 'Khufra')",(),0,Incendio,blue,"('Estes', 'Lunox', 'Esmeralda', 'Yu Zhong', 'Roger')",(),1,12:32,752,5,3,1,1,bracket
+184,20210821,X7,red,"('Uranus', 'Barats', ""Chang'e"", 'Hayabusa', 'Estes')",(),0,Incendio,blue,"('Popol and Kupa', 'Cyclops', 'Pharsa', 'Esmeralda', 'Yu Zhong')",(),1,13:17,797,5,4,1,2,bracket
+184,20210925,BEDEL,blue,"('Mathilda', 'Harley', 'Yu Zhong', 'Alice', 'Popol and Kupa')",(),1,X7,red,"('Selena', 'Esmeralda', 'Ling', 'Grock', 'Benedetta')",(),0,16:15,975,7,1,0,0,bracket
+184,20210925,BEDEL,red,"('Hayabusa', 'Kagura', 'Lunox', 'Barats', 'Baxia')",(),1,X7,blue,"('Uranus', 'Alice', 'Harley', 'Estes', 'Roger')",(),0,11:34,694,7,2,1,0,bracket
+184,20210925,BEDEL,red,"('Paquito', 'Eudora', 'Hayabusa', 'Alice', 'Khufra')",(),1,X7,blue,"('Kaja', 'Roger', ""Chang'e"", 'Yu Zhong', 'Popol and Kupa')",(),0,12:27,747,7,3,2,0,bracket
+184,20210925,BEDEL,blue,"('Lancelot', 'Uranus', 'Lylia', 'Esmeralda', 'Popol and Kupa')",(),1,X7,red,"('Khufra', 'Alice', 'Hayabusa', 'Selena', 'X.Borg')",(),0,14:03,843,7,4,3,0,bracket
+184,20210822,Rosso Sangue,red,"('Kaja', 'Yve', 'Karrie', 'Esmeralda', 'Estes')",(),0,X7,blue,"('Atlas', 'Pharsa', 'Roger', 'Yu Zhong', 'Phoveus')",(),1,11:38,698,5,1,0,0,bracket
+184,20210822,Rosso Sangue,blue,"('Uranus', 'Lancelot', 'Barats', 'Selena', 'Rafaela')",(),0,X7,red,"('Popol and Kupa', ""Chang'e"", 'Alice', 'Yi Sun-Shin', 'X.Borg')",(),1,13:18,798,5,2,0,1,bracket
+184,20210822,Rosso Sangue,red,"('Khaleed', 'Kagura', 'Lunox', 'Bruno', 'Popol and Kupa')",(),0,X7,blue,"('Uranus', 'Selena', 'Ling', 'Jawhead', 'Chou')",(),1,15:53,953,5,3,0,2,bracket

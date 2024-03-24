@@ -1,0 +1,229 @@
+tournament_code,tournament_name,tier,start_date,end_date,patch_code,url,last_updated,csv_name
+1,M5 World Championship,S,20231123,20231217,1.8.30B,https://liquipedia.net/mobilelegends/M5_World_Championship,20231230,1_M5 World Championship.csv
+2,MLBB Southeast Asia Cup 2023,S,20230610,20230618,1.7.82B,https://liquipedia.net/mobilelegends/MSC/2023,20231230,2_MLBB Southeast Asia Cup 2023.csv
+3,M4 World Championship,S,20230101,20230115,1.7.44C,https://liquipedia.net/mobilelegends/M4_World_Championship,20231230,3_M4 World Championship.csv
+4,M3 World Championship,S,20211206,20211219,1.6.34,https://liquipedia.net/mobilelegends/M3_World_Championship,20231230,4_M3 World Championship.csv
+5,M2 World Championship,S,20210118,20210124,1.5.46,https://liquipedia.net/mobilelegends/M2_World_Championship,20231230,5_M2 World Championship.csv
+6,M1 World Championship,S,20191110,20191117,1.4.20,https://liquipedia.net/mobilelegends/M1_World_Championship,20231230,6_M1 World Championship.csv
+7,ONE Esports MPL Invitational 2023,A,20231115,20231119,1.8.30B,https://liquipedia.net/mobilelegends/ONE_Esports_MPL_Invitational/2023,20231230,7_ONE Esports MPL Invitational 2023.csv
+8,MPL Philippines Season 12,A,20230908,20231029,1.8.08 – 1.8.22,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_12,20231230,8_MPL Philippines Season 12.csv
+9,MPL Singapore Season 6,A,20230909,20231022,1.8.08 – 1.8.20,https://liquipedia.net/mobilelegends/MPL/Singapore/Season_6,20231230,9_MPL Singapore Season 6.csv
+10,MPL MENA Fall 2023,A,20230908,20231021,1.8.08 – 1.8.20,https://liquipedia.net/mobilelegends/MPL/MENA/2023/Fall,20231230,10_MPL MENA Fall 2023.csv
+11,MPL Indonesia Season 12,A,20230713,20231015,1.7.94 – 1.8.20,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_12,20231230,11_MPL Indonesia Season 12.csv
+12,MPL Malaysia Season 12,A,20230818,20231008,1.8.08 – 1.8.20,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_12,20231230,12_MPL Malaysia Season 12.csv
+13,Liga Latam 2023,A,20230927,20231001,1.8.20,https://liquipedia.net/mobilelegends/Liga_Latam/2023,20231230,13_Liga Latam 2023.csv
+14,IESF World Esports Championship 2023,A,20230826,20230903,,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2023,20231230,14_IESF World Esports Championship 2023.csv
+15,Snapdragon Pro Series Season 3 SEA - Challenge Finals,A,20230717,20230723,1.7.94,https://liquipedia.net/mobilelegends/ESL/Snapdragon_Pro_Series/Season_3/SEA/Challenge_Finals,20231230,15_Snapdragon Pro Series Season 3 SEA - Challenge Finals.csv
+16,32nd SEA Games - Men's Tournament,A,20230512,20230514,,https://liquipedia.net/mobilelegends/Southeast_Asian_Games/2023/Men,20231230,16_32nd SEA Games - Men's Tournament.csv
+17,MPL MENA Spring 2023,A,20230323,20230513,1.7.68,https://liquipedia.net/mobilelegends/MPL/MENA/2023/Spring,20231230,17_MPL MENA Spring 2023.csv
+18,32nd SEA Games - Women's Tournament,A,20230510,20230511,,https://liquipedia.net/mobilelegends/Southeast_Asian_Games/2023/Women,20231230,18_32nd SEA Games - Women's Tournament.csv
+19,MPL Philippines Season 11,A,20230217,20230507,1.7.58 – 1.7.68,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_11,20231230,19_MPL Philippines Season 11.csv
+20,MPL Malaysia Season 11,A,20230310,20230430,,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_11,20231230,20_MPL Malaysia Season 11.csv
+21,MPL Singapore Season 5,A,20230311,20230416,1.7.58 – 1.7.68,https://liquipedia.net/mobilelegends/MPL/Singapore/Season_5,20231230,21_MPL Singapore Season 5.csv
+22,MPL Indonesia Season 11,A,20230217,20230409,,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_11,20231230,22_MPL Indonesia Season 11.csv
+23,ONE Esports MPL Invitational 2022,A,20221102,20221106,1.7.20B,https://liquipedia.net/mobilelegends/ONE_Esports_MPL_Invitational/2022,20231230,23_ONE Esports MPL Invitational 2022.csv
+24,MPL Indonesia Season 10,A,20220812,20221023,1.7.08 – 1.7.20,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_10,20231230,24_MPL Indonesia Season 10.csv
+25,MPL Philippines Season 10,A,20220812,20221023,1.7.08 – 1.7.20,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_10,20231230,25_MPL Philippines Season 10.csv
+26,MPL Malaysia Season 10,A,20220805,20221016,1.6.94 – 1.7.20,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_10,20231230,26_MPL Malaysia Season 10.csv
+27,MPL MENA Fall 2022,A,20220812,20221015,1.7.08 – 1.7.20,https://liquipedia.net/mobilelegends/MPL/MENA/2022/Fall,20231230,27_MPL MENA Fall 2022.csv
+28,MPL Singapore Season 4,A,20220903,20221009,1.7.08 – 1.7.20,https://liquipedia.net/mobilelegends/MPL/Singapore/Season_4,20231230,28_MPL Singapore Season 4.csv
+29,Liga Latam Season 2,A,20220613,20220619,,https://liquipedia.net/mobilelegends/Liga_Latam/Season_2,20231230,29_Liga Latam Season 2.csv
+30,MLBB Southeast Asia Cup 2022,A,20220611,20220619,,https://liquipedia.net/mobilelegends/MSC/2022,20231230,30_MLBB Southeast Asia Cup 2022.csv
+31,31st Southeast Asian Games,A,20220518,20220520,,https://liquipedia.net/mobilelegends/Southeast_Asian_Games/2021,20231230,31_31st Southeast Asian Games.csv
+32,MPL MENA Spring 2022,A,20220224,20220505,1.6.58 – 1.6.72,https://liquipedia.net/mobilelegends/MPL/MENA/2022/Spring,20231230,32_MPL MENA Spring 2022.csv
+33,MPL Singapore Season 3,A,20220402,20220501,1.6.66 – 1.6.72,https://liquipedia.net/mobilelegends/MPL/Singapore/Season_3,20231230,33_MPL Singapore Season 3.csv
+34,MPL Philippines Season 9,A,20220218,20220501,1.6.50B – 1.6.72,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_9,20231230,34_MPL Philippines Season 9.csv
+35,MPL Malaysia Season 9,A,20220218,20220424,1.6.52 – 1.6.72,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_9,20231230,35_MPL Malaysia Season 9.csv
+36,MPL Indonesia Season 9,A,20220218,20220424,1.6.52 – 1.6.72,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_9,20231230,36_MPL Indonesia Season 9.csv
+37,ONE Esports MPL Invitational 2021,A,20211102,20211107,1.6.26,https://liquipedia.net/mobilelegends/ONE_Esports_MPL_Invitational/2021,20231230,37_ONE Esports MPL Invitational 2021.csv
+38,MPL Indonesia Season 8,A,20210813,20211024,1.6.10 – 1.6.18,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_8,20231230,38_MPL Indonesia Season 8.csv
+39,MPL Philippines Season 8,A,20210827,20211024,1.6.10 – 1.6.18,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_8,20231230,39_MPL Philippines Season 8.csv
+40,MPL Malaysia Season 8,A,20210813,20211017,1.6.18,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_8,20231230,40_MPL Malaysia Season 8.csv
+41,MPL Singapore Season 2,A,20210911,20211017,1.6.10 – 1.6.26,https://liquipedia.net/mobilelegends/MPL/Singapore/Season_2,20231230,41_MPL Singapore Season 2.csv
+42,MLBB Southeast Asia Cup 2021,A,20210607,20210613,,https://liquipedia.net/mobilelegends/MSC/2021,20231230,42_MLBB Southeast Asia Cup 2021.csv
+43,MPL Malaysia Season 7,A,20210312,20210530,,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_7,20231230,43_MPL Malaysia Season 7.csv
+44,MPL Philippines Season 7,A,20210319,20210530,1.5.62 – 1.5.78,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_7,20231230,44_MPL Philippines Season 7.csv
+45,MPL Singapore Season 1,A,20210403,20210509,1.5.62 – 1.5.70,https://liquipedia.net/mobilelegends/MPL/Singapore/Season_1,20231230,45_MPL Singapore Season 1.csv
+46,MPL Indonesia Season 7,A,20210226,20210502,1.5.52 – 1.5.62,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_7,20231230,46_MPL Indonesia Season 7.csv
+47,ONE Esports MPL Invitational 2020,A,20201127,20201206,1.5.32,https://liquipedia.net/mobilelegends/ONE_Esports_MPL_Invitational/2020,20231230,47_ONE Esports MPL Invitational 2020.csv
+48,MPL Myanmar Season 5,A,20200926,20201101,1.5.16 – 1.5.24,https://liquipedia.net/mobilelegends/MPL/Myanmar/Season_5,20231230,48_MPL Myanmar Season 5.csv
+49,MPL MY/SG Season 6,A,20200828,20201025,,https://liquipedia.net/mobilelegends/MPL/MYSG/Season_6,20231230,49_MPL MY_SG Season 6.csv
+50,MPL Philippines Season 6,A,20200821,20201025,1.4.94B – 1.5.16B,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_6,20231230,50_MPL Philippines Season 6.csv
+51,MPL Indonesia Season 6,A,20200814,20201018,,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_6,20231230,51_MPL Indonesia Season 6.csv
+52,MPL Invitational 4 Nation Cup,A,20200619,20200705,1.4.86,https://liquipedia.net/mobilelegends/MPLI_4_Nation_Cup,20231230,52_MPL Invitational 4 Nation Cup.csv
+53,MPL Myanmar Season 4,A,20200516,20200621,1.4.76 – 1.4.86,https://liquipedia.net/mobilelegends/MPL/Myanmar/Season_4,20231230,53_MPL Myanmar Season 4.csv
+54,MPL Philippines Season 5,A,20200228,20200531,1.4.50 – 1.4.76,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_5,20231230,54_MPL Philippines Season 5.csv
+55,MPL MY/SG Season 5,A,20200229,20200503,1.4.50 – 1.4.76,https://liquipedia.net/mobilelegends/MPL/MYSG/Season_5,20231230,55_MPL MY_SG Season 5.csv
+56,MPL Indonesia Season 5,A,20200207,20200412,1.4.44 – 1.4.60,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_5,20231230,56_MPL Indonesia Season 5.csv
+57,30th Southeast Asian Games,A,20191205,20191208,,https://liquipedia.net/mobilelegends/Southeast_Asian_Games/2019,20231230,57_30th Southeast Asian Games.csv
+58,MPL Indonesia Season 4,A,20190823,20191027,1.3.52 – 1.4.08,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_4,20231230,58_MPL Indonesia Season 4.csv
+59,MPL Myanmar Season 3,A,20190831,20191026,1.3.96 – 1.4.20,https://liquipedia.net/mobilelegends/MPL/Myanmar/Season_3,20231230,59_MPL Myanmar Season 3.csv
+60,MPL MY/SG Season 4,A,20190824,20191020,1.4.06 – 1.4.20,https://liquipedia.net/mobilelegends/MPL/MYSG/Season_4,20231230,60_MPL MY_SG Season 4.csv
+61,MPL Philippines Season 4,A,20190810,20191006,1.3.96 – 1.4.14,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_4,20231230,61_MPL Philippines Season 4.csv
+62,MLBB Southeast Asia Cup 2019,A,20190619,20190623,,https://liquipedia.net/mobilelegends/MSC/2019,20231230,62_MLBB Southeast Asia Cup 2019.csv
+63,MPL Philippines Season 3,A,20190323,20190526,1.3.52 – 1.3.80,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_3,20231230,63_MPL Philippines Season 3.csv
+64,MPL Indonesia Season 3,A,20190216,20190505,1.3.52 – 1.3.54,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_3,20231230,64_MPL Indonesia Season 3.csv
+65,MPL MY/SG Season 3,A,20190301,20190421,1.3.52 – 1.3.54,https://liquipedia.net/mobilelegends/MPL/MYSG/Season_3,20231230,65_MPL MY_SG Season 3.csv
+66,MPL Philippines Season 2,A,20181027,20190113,1.3.12,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_2,20231230,66_MPL Philippines Season 2.csv
+67,MPL Indonesia Season 2,A,20180907,20181118,1.3.10,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_2,20231230,67_MPL Indonesia Season 2.csv
+68,MPL MY/SG Season 2,A,20180810,20181021,1.2.48 – 1.2.68,https://liquipedia.net/mobilelegends/MPL/MYSG/Season_2,20231230,68_MPL MY_SG Season 2.csv
+69,MLBB Southeast Asia Cup 2018,A,20180727,20180729,,https://liquipedia.net/mobilelegends/MSC/2018,20231230,69_MLBB Southeast Asia Cup 2018.csv
+70,MPL Philippines Season 1,A,20180512,20180701,1.2.76 – 1.2.90,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_1,20231230,70_MPL Philippines Season 1.csv
+71,MPL MY/SG Season 1,A,20180113,20180415,1.2.48 – 1.2.68,https://liquipedia.net/mobilelegends/MPL/MYSG/Season_1,20231230,71_MPL MY_SG Season 1.csv
+72,MPL Indonesia Season 1,A,20180113,20180401,1.2.48 – 1.2.68,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_1,20231230,72_MPL Indonesia Season 1.csv
+73,MLBB Southeast Asia Cup 2017,A,20170901,20170903,,https://liquipedia.net/mobilelegends/MSC/2017,20231230,73_MLBB Southeast Asia Cup 2017.csv
+74,Liga Esports National 2023 - Liga 1,B,20231006,20231203,1.8.20 – 1.8.30B,https://liquipedia.net/mobilelegends/Liga_Esports_National/2023/Liga/1,20231230,74_Liga Esports National 2023 - Liga 1.csv
+75,Unipin Ladies Series SEA Championship 2023,B,20231127,20231203,,https://liquipedia.net/mobilelegends/Unipin_Ladies_Series_SEA_Championship/2023,20231230,75_Unipin Ladies Series SEA Championship 2023.csv
+76,Esports National Championship 2023,B,20231107,20231119,1.8.30B,https://liquipedia.net/mobilelegends/Esports_National_Championship/2023,20231230,76_Esports National Championship 2023.csv
+77,Light of Dawn Pro-Invitational Tournament Season 2,B,20231014,20231112,,https://liquipedia.net/mobilelegends/Light_of_Dawn_Pro-Invitational_Tournament/Season_2,20231230,77_Light of Dawn Pro-Invitational Tournament Season 2.csv
+78,GG Gaming Festival - 2023,B,20231007,20231105,1.8.20 – 1.8.22,https://liquipedia.net/mobilelegends/GG_Gaming_Festival/2023,20231230,78_GG Gaming Festival - 2023.csv
+79,MDL Indonesia Season 8,B,20230710,20231029,1.7.94 – 1.8.22,https://liquipedia.net/mobilelegends/MDL/Indonesia/Season_8,20231230,79_MDL Indonesia Season 8.csv
+80,MDL Philippines Season 2,B,20230829,20231022,1.8.08,https://liquipedia.net/mobilelegends/MDL/Philippines/Season_2,20231230,80_MDL Philippines Season 2.csv
+81,Piala Presiden Esports 2023,B,20230929,20231022,1.8.20 – 1.8.22,https://liquipedia.net/mobilelegends/Piala_Presiden/2023,20231230,81_Piala Presiden Esports 2023.csv
+82,Malaysia Esports League 2023,B,20231021,20231022,1.8.22,https://liquipedia.net/mobilelegends/Malaysia_Esports_League/2023,20231230,82_Malaysia Esports League 2023.csv
+83,Johor All Star Esports Championship 2023,B,20231020,20231022,1.8.22,https://liquipedia.net/mobilelegends/Johor_All_Star_Esports_Championship/2023,20231230,83_Johor All Star Esports Championship 2023.csv
+84,Piala Presiden Esports 2023 Women,B,20230903,20231021,1.8.08 – 1.8.22,https://liquipedia.net/mobilelegends/Piala_Presiden/2023/Women,20231230,84_Piala Presiden Esports 2023 Women.csv
+85,MTC Turkiye Championship Season 2,B,20230826,20231015,1.8.08 – 1.8.20,https://liquipedia.net/mobilelegends/MTC_Turkiye_Championship/Season_2,20231230,85_MTC Turkiye Championship Season 2.csv
+86,MPL Cambodia Autumn 2023,B,20230812,20231008,1.8.08 – 1.8.20,https://liquipedia.net/mobilelegends/MPL/Cambodia/2023/Autumn,20231230,86_MPL Cambodia Autumn 2023.csv
+87,MLBB Continental Championships Season 2,B,20230812,20231008,1.8.08 – 1.8.20,https://liquipedia.net/mobilelegends/MLBB_Continental_Championships/Season_2,20231230,87_MLBB Continental Championships Season 2.csv
+88,North America Challenger Tournament Fall 2023,B,20230805,20231001,1.7.94 – 1.8.20,https://liquipedia.net/mobilelegends/NACT/2023/Fall,20231230,88_North America Challenger Tournament Fall 2023.csv
+89,ESN National Championship 2023,B,20230911,20231001,1.8.08 – 1.8.20,https://liquipedia.net/mobilelegends/ESN/National_Championship/2023,20231230,89_ESN National Championship 2023.csv
+90,Piala Ketum Kadin Esports 2023,B,20230901,20230924,1.8.08 – 1.8.20,https://liquipedia.net/mobilelegends/Piala_Ketum_Kadin_Esports/2023,20231230,90_Piala Ketum Kadin Esports 2023.csv
+91,Liga Esports National 2023 - Liga 2,B,20230825,20230924,1.8.08 – 1.8.20,https://liquipedia.net/mobilelegends/Liga_Esports_National/2023/Liga/2,20231230,91_Liga Esports National 2023 - Liga 2.csv
+92,M Challenge Cup Mekong Season 2,B,20230805,20230923,1.7.94 – 1.8.20,https://liquipedia.net/mobilelegends/M_Challenge_Cup/Mekong/Season_2,20231230,92_M Challenge Cup Mekong Season 2.csv
+93,Unipin Ladies Series Season 3,B,20230807,20230910,,https://liquipedia.net/mobilelegends/Unipin_Ladies_Series/ID/Season_3,20231230,93_Unipin Ladies Series Season 3.csv
+94,WOWNOW & Prince Mall League Season 2,B,20230809,20230903,1.8.08,https://liquipedia.net/mobilelegends/WOWNOW_%26_Prince_Mall_League/Season_2,20231230,94_WOWNOW & Prince Mall League Season 2.csv
+95,MLBB LATAM Super League South Season 3,B,20230701,20230827,1.7.94 – 1.8.08,https://liquipedia.net/mobilelegends/MLBB_Latam_Super_League/South/Season_3,20231230,95_MLBB LATAM Super League South Season 3.csv
+96,MPL Brazil Season 5,B,20230708,20230826,1.7.94 – 1.8.08,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5,20231230,96_MPL Brazil Season 5.csv
+97,MLBB LATAM Super League North Season 2,B,20230701,20230820,1.7.94 – 1.8.08,https://liquipedia.net/mobilelegends/MLBB_Latam_Super_League/North/Season_2,20231230,97_MLBB LATAM Super League North Season 2.csv
+98,MTC Turkiye Championship Season 2,B,20230812,20230813,,https://liquipedia.net/mobilelegends/MTC_Turkiye_Championship/Season_2/Open_Qualifiers_2,20231230,98_MTC Turkiye Championship Season 2.csv
+99,MTC Turkiye Championship Season 2,B,20230805,20230806,,https://liquipedia.net/mobilelegends/MTC_Turkiye_Championship/Season_2/Open_Qualifiers_1,20231230,99_MTC Turkiye Championship Season 2.csv
+100,WSL Season 7,B,20230630,20230730,,https://liquipedia.net/mobilelegends/WSL/Season_7,20231230,100_WSL Season 7.csv
+101,World Cyber Games 2023,B,20230603,20230730,,https://liquipedia.net/mobilelegends/World_Cyber_Games/2023,20231230,101_World Cyber Games 2023.csv
+102,Juicy Legends Tournament 2023 Q2 Pro Division,B,20230623,20230730,,https://liquipedia.net/mobilelegends/Juicy_Legends_Tournament/2023/Q2/Pro,20231230,102_Juicy Legends Tournament 2023 Q2 Pro Division.csv
+103,Phygital Games #9,B,20230720,20230723,1.7.94,https://liquipedia.net/mobilelegends/Phygital_Games/9,20231230,103_Phygital Games #9.csv
+104,IESF World Esports Championship 2023 - Asia & Oceania Qualifier,B,20230710,20230713,,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2023/Asia%26Oceania,20231230,104_IESF World Esports Championship 2023 - Asia & Oceania Qualifier.csv
+105,Piala Bung Karno Esports 2023,B,20230625,20230704,,https://liquipedia.net/mobilelegends/Piala_Bung_Karno_Esports/2023,20231230,105_Piala Bung Karno Esports 2023.csv
+106,H3RO Esports 4.0,B,20230602,20230625,1.6.94B,https://liquipedia.net/mobilelegends/H3RO_Esports/4.0,20231230,106_H3RO Esports 4.0.csv
+107,MESA Legends Series #1,B,20230619,20230622,,https://liquipedia.net/mobilelegends/MESA_Legends_Series/1,20231230,107_MESA Legends Series #1.csv
+108,Last Victory Invitational 2023,B,20230531,20230616,,https://liquipedia.net/mobilelegends/Last_Victory/Invitational/2023,20231230,108_Last Victory Invitational 2023.csv
+109,Kohai SEA Championship Season 1,B,20230601,20230604,,https://liquipedia.net/mobilelegends/Kohai_SEA_Championship/Season_1,20231230,109_Kohai SEA Championship Season 1.csv
+110,MTC Turkiye Championship Season 1,B,20230408,20230521,1.7.68 – 1.7.82,https://liquipedia.net/mobilelegends/MTC_Turkiye_Championship/Season_1,20231230,110_MTC Turkiye Championship Season 1.csv
+111,North America Challenger Tournament Spring 2023,B,20230311,20230514,,https://liquipedia.net/mobilelegends/NACT/2023/Spring,20231230,111_North America Challenger Tournament Spring 2023.csv
+112,MLBB Continental Championships Season 1,B,20230401,20230514,1.7.68,https://liquipedia.net/mobilelegends/MLBB_Continental_Championships/Season_1,20231230,112_MLBB Continental Championships Season 1.csv
+113,MPL Brazil Season 4,B,20230311,20230507,1.7.58 – 1.7.68,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_4,20231230,113_MPL Brazil Season 4.csv
+114,MLBB LATAM Super League South Season 2,B,20230304,20230507,1.7.58 – 1.7.68,https://liquipedia.net/mobilelegends/MLBB_Latam_Super_League/South/Season_2,20231230,114_MLBB LATAM Super League South Season 2.csv
+115,PBA Esports Bakbakan,B,20230227,20230501,,https://liquipedia.net/mobilelegends/PBA_Esports_Bakbakan,20231230,115_PBA Esports Bakbakan.csv
+116,MLBB LATAM Super League North Season 1,B,20230304,20230430,1.7.58 – 1.7.68,https://liquipedia.net/mobilelegends/MLBB_Latam_Super_League/North/Season_1,20231230,116_MLBB LATAM Super League North Season 1.csv
+117,Snapdragon Pro Series Season 1 SEA - Challenge Final,B,20230419,20230426,,https://liquipedia.net/mobilelegends/ESL/Snapdragon_Pro_Series/Season_1/SEA/Challenge_Final,20231230,117_Snapdragon Pro Series Season 1 SEA - Challenge Final.csv
+118,MPL Cambodia Spring 2023,B,20230304,20230423,1.7.58 – 1.7.68,https://liquipedia.net/mobilelegends/MPL/Cambodia/2023/Spring,20231230,118_MPL Cambodia Spring 2023.csv
+119,MDL Philippines Season 1,B,20230215,20230423,1.7.58 – 1.7.68,https://liquipedia.net/mobilelegends/MDL/Philippines/Season_1,20231230,119_MDL Philippines Season 1.csv
+120,MDL Indonesia Season 7,B,20230207,20230416,,https://liquipedia.net/mobilelegends/MDL/Indonesia/Season_7,20231230,120_MDL Indonesia Season 7.csv
+121,Snapdragon Pro Series Season 1 SEA - Challenge Season,B,20230308,20230330,,https://liquipedia.net/mobilelegends/ESL/Snapdragon_Pro_Series/Season_1/SEA/Challenge_Season,20231230,121_Snapdragon Pro Series Season 1 SEA - Challenge Season.csv
+122,Real Cup Season 2,B,20230220,20230303,,https://liquipedia.net/mobilelegends/Real_Cup/Season_2,20231230,122_Real Cup Season 2.csv
+123,Snapdragon Pro Series Season 1 SEA - Open Finals,B,20230213,20230223,,https://liquipedia.net/mobilelegends/ESL/Snapdragon_Pro_Series/Season_1/SEA/Open_Finals,20231230,123_Snapdragon Pro Series Season 1 SEA - Open Finals.csv
+124,MLBB Women's Invitational 2023,B,20230206,20230212,1.7.44C,https://liquipedia.net/mobilelegends/MLBB_Women%27s_Invitational/2023,20231230,124_MLBB Women's Invitational 2023.csv
+125,Phygital Games #3,B,20230206,20230207,,https://liquipedia.net/mobilelegends/Phygital_Games/3,20231230,125_Phygital Games #3.csv
+126,MLBB Competitive Series Season 3,B,20230131,20230206,,https://liquipedia.net/mobilelegends/MLBB_Competitive_Series/Season_3,20231230,126_MLBB Competitive Series Season 3.csv
+127,WSL Season 6,B,20230117,20230205,,https://liquipedia.net/mobilelegends/WSL/Season_6,20231230,127_WSL Season 6.csv
+128,Masters of Esports,B,,20230128,,https://liquipedia.net/mobilelegends/Master_of_Esports/2023,20231230,128_Masters of Esports.csv
+129,Lead National Series,B,20230121,20230128,,https://liquipedia.net/mobilelegends/Lead_National_Series,20231230,129_Lead National Series.csv
+130,Myriad Esports Cup Season 1,B,20230121,20230128,1.7.44C – 1.7.44C,https://liquipedia.net/mobilelegends/Myriad_Esports_Cup/Season/1,20231230,130_Myriad Esports Cup Season 1.csv
+131,IESPL Women Championship,B,20230109,20230114,1.7.44C,https://liquipedia.net/mobilelegends/IESPL_Women_Championship,20231230,131_IESPL Women Championship.csv
+132,King's League Tournament,B,20221227,20221228,1.7.44,https://liquipedia.net/mobilelegends/King%27s_League_Tournament,20231230,132_King's League Tournament.csv
+133,Top Clans 2022 Winter Invitational,B,20221221,20221225,1.7.44,https://liquipedia.net/mobilelegends/Top_Clans/2022/Winter_Invitational,20231230,133_Top Clans 2022 Winter Invitational.csv
+134,Last Victory Invitational 2022,B,20221210,20221220,1.7.32C – 1.7.44,https://liquipedia.net/mobilelegends/Last_Victory/Invitational/2022,20231230,134_Last Victory Invitational 2022.csv
+135,Skyesports SEA Championship,B,20221212,20221218,,https://liquipedia.net/mobilelegends/Skyesports_SEA_Championship,20231230,135_Skyesports SEA Championship.csv
+136,Smart Kingdom Of Legends SEA Rivals,B,20221119,20221218,,https://liquipedia.net/mobilelegends/Smart_Kingdom_Of_Legends_SEA_Rivals,20231230,136_Smart Kingdom Of Legends SEA Rivals.csv
+137,IESF World Esports Championship 2022,B,20221203,20221211,,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2022,20231230,137_IESF World Esports Championship 2022.csv
+138,Kohai Championship Season 2,B,20221124,20221127,,https://liquipedia.net/mobilelegends/Kohai_Championship/Season_2,20231230,138_Kohai Championship Season 2.csv
+139,Piala Presiden Esports 2022,B,20221026,20221113,1.7.20B,https://liquipedia.net/mobilelegends/Piala_Presiden/2022,20231230,139_Piala Presiden Esports 2022.csv
+140,NACT Fall Season - Path to M4,B,20220917,20221030,1.7.08 – 1.7.20B,https://liquipedia.net/mobilelegends/NACT/2022/Fall,20231230,140_NACT Fall Season - Path to M4.csv
+141,MLBB Latam Super League Season 1,B,20220910,20221030,1.7.08 – 1.7.20B,https://liquipedia.net/mobilelegends/MLBB_Latam_Super_League/Season_1,20231230,141_MLBB Latam Super League Season 1.csv
+142,MPL Brazil Season 3,B,20220819,20221023,1.7.08 – 1.7.20,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_3,20231230,142_MPL Brazil Season 3.csv
+143,Mobile Legends Upoint Esports Invitational Season 3,B,20221013,20221018,1.7.20,https://liquipedia.net/mobilelegends/Mobile_Legends_Upoint_Esports_Invitational/Season_3,20231230,143_Mobile Legends Upoint Esports Invitational Season 3.csv
+144,MDL Indonesia Season 6,B,20220808,20221009,1.6.94B – 1.7.20,https://liquipedia.net/mobilelegends/MDL/Indonesia/Season_6,20231230,144_MDL Indonesia Season 6.csv
+145,MPL Cambodia Autumn 2022,B,20220806,20221002,1.6.94B – 1.7.20,https://liquipedia.net/mobilelegends/MPL/Cambodia/2022/Autumn,20231230,145_MPL Cambodia Autumn 2022.csv
+146,Türkiye Şampiyonası 2022,B,20220924,20221002,1.7.08 – 1.7.20,https://liquipedia.net/mobilelegends/Turkiye_Sampiyonasi/2022,20231230,146_Türkiye Şampiyonası 2022.csv
+147,WOWNOW & Prince Mall League,B,20220815,20220911,1.7.08,https://liquipedia.net/mobilelegends/WOWNOW_%26_Prince_Mall_League/Season_1,20231230,147_WOWNOW & Prince Mall League.csv
+148,The Annihilation III,B,20220815,20220904,1.7.08,https://liquipedia.net/mobilelegends/The_Annihilation/Season_3,20231230,148_The Annihilation III.csv
+149,Unipin Ladies Series SEA Championship 2022,B,20220822,20220828,,https://liquipedia.net/mobilelegends/Unipin_Ladies_Series_SEA_Championship/2022,20231230,149_Unipin Ladies Series SEA Championship 2022.csv
+150,Woman Star League Season 5,B,20220701,20220807,,https://liquipedia.net/mobilelegends/Woman_Star_League/Season_5,20231230,150_Woman Star League Season 5.csv
+151,NACT July 2022,B,20220625,20220806,1.6.84,https://liquipedia.net/mobilelegends/NACT/2022/July,20231230,151_NACT July 2022.csv
+152,H3RO Esports 3.0,B,20220729,20220731,1.6.94B,https://liquipedia.net/mobilelegends/H3RO_Esports/3.0,20231230,152_H3RO Esports 3.0.csv
+153,Top Clans 2022 Summer Invitational,B,20220727,20220731,,https://liquipedia.net/mobilelegends/Top_Clans/2022/Summer_Invitational,20231230,153_Top Clans 2022 Summer Invitational.csv
+154,Mobile Legends Upoint Esports Invitational Season 2,B,20220606,20220611,1.6.84,https://liquipedia.net/mobilelegends/Mobile_Legends_Upoint_Esports_Invitational/Season_2,20231230,154_Mobile Legends Upoint Esports Invitational Season 2.csv
+155,Unipin Ladies Series Philippines Season 1,B,20220516,20220610,1.6.72,https://liquipedia.net/mobilelegends/Unipin_Ladies_Series/PH/Season_1,20231230,155_Unipin Ladies Series Philippines Season 1.csv
+156,MPL Brazil Season 2,B,20220311,20220501,1.6.62 – 1.6.72,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_2,20231230,156_MPL Brazil Season 2.csv
+157,MPL Cambodia Spring 2022,B,20220226,20220424,1.6.58 – 1.6.72,https://liquipedia.net/mobilelegends/MPL/Cambodia/2022/Spring,20231230,157_MPL Cambodia Spring 2022.csv
+158,Peru National Cup Season 1,B,20220313,20220424,1.6.62 – 1.6.72,https://liquipedia.net/mobilelegends/Peru_National_Cup/Season_1,20231230,158_Peru National Cup Season 1.csv
+159,Bolívia National Cup Season 1,B,20220312,20220423,1.6.62 – 1.6.72,https://liquipedia.net/mobilelegends/Bolivia_National_Cup/Season_1,20231230,159_Bolívia National Cup Season 1.csv
+160,MDL Indonesia Season 5,B,20220214,20220417,1.6.52,https://liquipedia.net/mobilelegends/MDL/Indonesia/Season_5,20231230,160_MDL Indonesia Season 5.csv
+161,Real Cup,B,20220312,20220404,1.6.52,https://liquipedia.net/mobilelegends/Real_Cup,20231230,161_Real Cup.csv
+162,Unipin Ladies Series Season 2,B,20220204,20220327,,https://liquipedia.net/mobilelegends/Unipin_Ladies_Series/ID/Season_2,20231230,162_Unipin Ladies Series Season 2.csv
+163,Razer Invitational - SEA 2021,B,20220214,20220227,,https://liquipedia.net/mobilelegends/Razer_Invitational/SEA/2021,20231230,163_Razer Invitational - SEA 2021.csv
+164,T.Y Media E Champion Season 1,B,20220612,20220210,,https://liquipedia.net/mobilelegends/T.Y_Media_E_Champion/Season_1,20231230,164_T.Y Media E Champion Season 1.csv
+165,DGWIB Championship 2022,B,20220120,20220130,,https://liquipedia.net/mobilelegends/Dunia_Games_WIB/2022,20231230,165_DGWIB Championship 2022.csv
+166,MLBB Women's Invitational 2022,B,20220127,20220130,,https://liquipedia.net/mobilelegends/MLBB_Women%27s_Invitational/2022,20231230,166_MLBB Women's Invitational 2022.csv
+167,DGWIB Championship 2022 - Ladies,B,20220125,20220130,,https://liquipedia.net/mobilelegends/Dunia_Games_WIB/2022/Ladies,20231230,167_DGWIB Championship 2022 - Ladies.csv
+168,SIBOL 2022 National Team Selection for 31st Sea Games,B,20220121,20220130,,https://liquipedia.net/mobilelegends/SIBOL_2022_National_Team_Selection/31st_Sea_Games,20231230,168_SIBOL 2022 National Team Selection for 31st Sea Games.csv
+169,Malaysia Esports Championship 2021,B,20220107,20220109,,https://liquipedia.net/mobilelegends/Malaysia_Esports_Championship/2021,20231230,169_Malaysia Esports Championship 2021.csv
+170,Woman Star League Season 4,B,20211220,20220123,,https://liquipedia.net/mobilelegends/Woman_Star_League/Season_4,20231230,170_Woman Star League Season 4.csv
+171,Piala Presiden Esports 2021,B,20210909,20211219,1.6.34,https://liquipedia.net/mobilelegends/Piala_Presiden/2021,20231230,171_Piala Presiden Esports 2021.csv
+172,Light of Dawn Pro-Invitational Tournament,B,20211115,20211209,1.6.26 – 1.6.34,https://liquipedia.net/mobilelegends/Light_of_Dawn_Pro-Invitational_Tournament,20231230,172_Light of Dawn Pro-Invitational Tournament.csv
+173,Top Clans 2021 Winter Invitational,B,20211201,20211205,1.6.34,https://liquipedia.net/mobilelegends/Top_Clans/2021/Winter_Invitational,20231230,173_Top Clans 2021 Winter Invitational.csv
+174,Mobile Legends Upoint Esports Invitational Season 1,B,20211125,20211204,,https://liquipedia.net/mobilelegends/Mobile_Legends_Upoint_Esports_Invitational/Season_1,20231230,174_Mobile Legends Upoint Esports Invitational Season 1.csv
+175,Unipin Ladies Series SEA Invitational,B,20211115,20211120,,https://liquipedia.net/mobilelegends/Unipin_Ladies_Series_SEA_invitational,20231230,175_Unipin Ladies Series SEA Invitational.csv
+176,PlayMaya Tournament,B,20211002,20211112,1.6.18 – 1.6.26,https://liquipedia.net/mobilelegends/PlayMaya_Tournament,20231230,176_PlayMaya Tournament.csv
+177,Liga Latam Season 1,B,20211103,20211107,1.6.26,https://liquipedia.net/mobilelegends/Liga_Latam/Season_1,20231230,177_Liga Latam Season 1.csv
+178,Wonderful Indonesia Srikandi Championship,B,20211004,20211031,,https://liquipedia.net/mobilelegends/Wonderful_Indonesia_Srikandi_Championship,20231230,178_Wonderful Indonesia Srikandi Championship.csv
+179,MDL Indonesia Season 4,B,20210809,20211017,1.5.96 – 1.6.18,https://liquipedia.net/mobilelegends/MDL/Indonesia/Season_4,20231230,179_MDL Indonesia Season 4.csv
+180,MPL Brazil Season 1,B,20210814,20211016,1.5.96 – 1.6.18,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_1,20231230,180_MPL Brazil Season 1.csv
+181,MPL Cambodia Season 1,B,20210828,20211003,1.6.10 – 1.6.18,https://liquipedia.net/mobilelegends/MPL/Cambodia/Season_1,20231230,181_MPL Cambodia Season 1.csv
+182,LATAM Championship 2021,B,20210914,20211002,1.6.10 – 1.6.18,https://liquipedia.net/mobilelegends/LATAM_Championship/2021,20231230,182_LATAM Championship 2021.csv
+183,Mythic League Season 1: Pro,B,20210522,20210926,1.5.78 – 1.6.18,https://liquipedia.net/mobilelegends/Mythic_League/Season_1/Pro,20231230,183_Mythic League Season 1_ Pro.csv
+184,Türkiye Şampiyonası 2021,B,20210717,20210925,1.5.88 – 1.6.18,https://liquipedia.net/mobilelegends/Turkiye_Sampiyonasi/2021,20231230,184_Türkiye Şampiyonası 2021.csv
+185,M3 Arabia Major,B,20210816,20210909,1.6.10 – 1.6.18,https://liquipedia.net/mobilelegends/M3_Arabia_Major,20231230,185_M3 Arabia Major.csv
+186,Top Clans 2021 Summer Invitational,B,20210828,20210905,1.6.10,https://liquipedia.net/mobilelegends/Top_Clans/2021/Summer_Invitational,20231230,186_Top Clans 2021 Summer Invitational.csv
+187,Woman Star League Season 3,B,20210604,20210808,1.6.26 – 1.6.34,https://liquipedia.net/mobilelegends/Woman_Star_League/Season_3,20231230,187_Woman Star League Season 3.csv
+188,Nimo TV Mobile Legends Arena Season 3,B,20210721,20210801,1.6.34,https://liquipedia.net/mobilelegends/Nimo_TV_Mobile_Legends_Arena/Season_3,20231230,188_Nimo TV Mobile Legends Arena Season 3.csv
+189,H3RO Esports 2.0,B,20210717,20210718,,https://liquipedia.net/mobilelegends/H3RO_Esports/2.0,20231230,189_H3RO Esports 2.0.csv
+190,Unipin Ladies Series Season 1,B,20210527,20210627,,https://liquipedia.net/mobilelegends/Unipin_Ladies_Series/ID/Season_1,20231230,190_Unipin Ladies Series Season 1.csv
+191,515 Blitz Brazil,B,20210422,20210515,1.5.62B – 1.5.70,https://liquipedia.net/mobilelegends/515_Blitz_Brazil,20231230,191_515 Blitz Brazil.csv
+192,MDL Indonesia Season 3,B,20210222,20210425,1.5.52 – 1.5.70,https://liquipedia.net/mobilelegends/MDL/Indonesia/Season_3,20231230,192_MDL Indonesia Season 3.csv
+193,North America Challenger Cup,B,20210413,20210418,1.5.70,https://liquipedia.net/mobilelegends/North_America_Challenger_Cup,20231230,193_North America Challenger Cup.csv
+194,LATAM Invitational 2021,B,20210409,20210411,,https://liquipedia.net/mobilelegends/LATAM_Invitational/2021,20231230,194_LATAM Invitational 2021.csv
+195,Woman Star League Season 2,B,20210122,20210221,,https://liquipedia.net/mobilelegends/Woman_Star_League/Season_2,20231230,195_Woman Star League Season 2.csv
+196,Metfone The First Legends,B,,,1.5.46,https://liquipedia.net/mobilelegends/Metfone_The_First_Legends,20231230,196_Metfone The First Legends.csv
+197,Brazilian Regular League Season 4,B,20201107,20210307,,https://liquipedia.net/mobilelegends/Brazilian_Regular_League/Season_4,20231230,197_Brazilian Regular League Season 4.csv
+198,The Nationals Season 2,B,20201114,20201220,,https://liquipedia.net/mobilelegends/The_Nationals/Season_2,20231230,198_The Nationals Season 2.csv
+199,Nimo TV Mobile Legends Arena Season 2,B,20201208,20201214,1.6.34,https://liquipedia.net/mobilelegends/Nimo_TV_Mobile_Legends_Arena/Season_2,20231230,199_Nimo TV Mobile Legends Arena Season 2.csv
+200,Brazil National Championship,B,20201113,20201213,1.5.24 – 1.5.32,https://liquipedia.net/mobilelegends/Brazil_National_Championship/2020,20231230,200_Brazil National Championship.csv
+201,Woman Star League Invitational,B,20200913,20201122,,https://liquipedia.net/mobilelegends/Woman_Star_League/Invitational,20231230,201_Woman Star League Invitational.csv
+202,Smart Kingdom of Legends: Pro,B,20201110,20201115,1.5.24,https://liquipedia.net/mobilelegends/Smart_Kingdom_of_Legends/Pro,20231230,202_Smart Kingdom of Legends_ Pro.csv
+203,Japan Grand Prix,B,,,1.5.24,https://liquipedia.net/mobilelegends/Japan_Grand_Prix,20231230,203_Japan Grand Prix.csv
+204,MDL Indonesia Season 2,B,20200810,20201011,1.4.94 – 1.5.16,https://liquipedia.net/mobilelegends/MDL/Indonesia/Season_2,20231230,204_MDL Indonesia Season 2.csv
+205,Mytel International Championship Season 2,B,20200720,20200730,,https://liquipedia.net/mobilelegends/Mytel_International_Championship/Season_2,20231230,205_Mytel International Championship Season 2.csv
+206,Brazilian Regular League Season 3,B,20200410,20200727,,https://liquipedia.net/mobilelegends/Brazilian_Regular_League/Season_3,20231230,206_Brazilian Regular League Season 3.csv
+207,Metfone All-Stars Arena,B,20200718,20200725,1.4.94,https://liquipedia.net/mobilelegends/Metfone_All-Stars_Arena,20231230,207_Metfone All-Stars Arena.csv
+208,Razer Invitational - SEA 2020,B,20200705,20200712,1.4.86,https://liquipedia.net/mobilelegends/Razer_Invitational/SEA/2020,20231230,208_Razer Invitational - SEA 2020.csv
+209,Mytel International Championship Season 1,B,20200608,20200614,,https://liquipedia.net/mobilelegends/Mytel_International_Championship/Season_1,20231230,209_Mytel International Championship Season 1.csv
+210,MDL Indonesia Season 1,B,20200217,20200419,1.4.44 – 1.4.60,https://liquipedia.net/mobilelegends/MDL/Indonesia/Season_1,20231230,210_MDL Indonesia Season 1.csv
+211,Campus Championship Indonesia 2020,B,20200404,20200405,1.4.70,https://liquipedia.net/mobilelegends/Campus_Championship/2020,20231230,211_Campus Championship Indonesia 2020.csv
+212,The Nationals Season 1 Finale,B,20200112,20200118,1.4.44,https://liquipedia.net/mobilelegends/The_Nationals/Season_1,20231230,212_The Nationals Season 1 Finale.csv
+213,The Nationals Season 1 Conference 2,B,20191103,20191215,,https://liquipedia.net/mobilelegends/The_Nationals/Season_1/Conference_2,20231230,213_The Nationals Season 1 Conference 2.csv
+214,Indihome Esports League 2019,B,,,,https://liquipedia.net/mobilelegends/Indihome_Esports_League/2019,20231230,214_Indihome Esports League 2019.csv
+215,Brazilian Regular League Season 2,B,20190531,20191001,,https://liquipedia.net/mobilelegends/Brazilian_Regular_League/Season_2,20231230,215_Brazilian Regular League Season 2.csv
+216,360mobi CHAMPIONSHIP SERIES - Season 3,B,20190808,20190818,,https://liquipedia.net/mobilelegends/360mobi_Championship_Series/Season_3,20231230,216_360mobi CHAMPIONSHIP SERIES - Season 3.csv
+217,The Nationals Season 1 Conference 1,B,20190626,20190728,,https://liquipedia.net/mobilelegends/The_Nationals/Season_1/Conference_1,20231230,217_The Nationals Season 1 Conference 1.csv
+218,Indonesia Esports National Championship,B,20190619,20190714,,https://liquipedia.net/mobilelegends/Indonesia_Esports_National_Championship,20231230,218_Indonesia Esports National Championship.csv
+219,MPL Myanmar Season 2,B,20190329,20190526,1.3.52 – 1.3.76,https://liquipedia.net/mobilelegends/MPL/Myanmar/Season_2,20231230,219_MPL Myanmar Season 2.csv
+220,SEA Clash of Champions,B,20190518,20190519,,https://liquipedia.net/mobilelegends/SEA_Clash_of_Champions,20231230,220_SEA Clash of Champions.csv
+221,360mobi CHAMPIONSHIP SERIES - Season 2,B,20190420,20190512,,https://liquipedia.net/mobilelegends/360mobi_Championship_Series/Season_2,20231230,221_360mobi CHAMPIONSHIP SERIES - Season 2.csv
+222,Mobile Star League Season 3,B,20190218,20190403,1.3.52,https://liquipedia.net/mobilelegends/Mobile_Star_League/Season_3,20231230,222_Mobile Star League Season 3.csv
+223,Piala Presiden Esports 2019,B,20190330,20190331,,https://liquipedia.net/mobilelegends/Piala_Presiden/2019,20231230,223_Piala Presiden Esports 2019.csv
+224,Brazilian Regular League Season 1,B,20190126,20190317,,https://liquipedia.net/mobilelegends/Brazilian_Regular_League/Season_1,20231230,224_Brazilian Regular League Season 1.csv
+225,360mobi CHAMPIONSHIP SERIES - Season 1,B,20190105,20190120,,https://liquipedia.net/mobilelegends/360mobi_Championship_Series/Season_1,20231230,225_360mobi CHAMPIONSHIP SERIES - Season 1.csv
+226,Mobile Star League Season 2,B,20181126,20190106,1.3.10 – 1.3.12,https://liquipedia.net/mobilelegends/Mobile_Star_League/Season_2,20231230,226_Mobile Star League Season 2.csv
+227,MPL Myanmar Season 1,B,20181026,20181216,1.3.12,https://liquipedia.net/mobilelegends/MPL/Myanmar/Season_1,20231230,227_MPL Myanmar Season 1.csv
+228,Mobile Star League Season 1,B,20180710,20180902,1.2.92 – 1.3.10,https://liquipedia.net/mobilelegends/Mobile_Star_League/Season_1,20231230,228_Mobile Star League Season 1.csv

@@ -1,0 +1,31 @@
+tournament_code,date,t1_name,t1_side,t1_picks,t1_bans,t1_result,t2_name,t2_side,t2_picks,t2_bans,t2_result,game_time_str,game_time_sec,match_format_BON,game_no,t1_points,t2_points,tournament_stage
+68,20180729,Aether Main,blue,"[44, 47, 26, 3, 63]","[21, 11]",1,Aerowolf Roxy,red,"[20, 40, 58, 25, 54]","[32, 51]",0,17:28,1048,3,1,0,0,bracket
+68,20180729,Aether Main,red,"[44, 47, 42, 25, 26]","[21, 11]",0,Aerowolf Roxy,blue,"[9, 52, 63, 58, 54]","[32, 51]",1,29:12,1752,3,2,1,0,bracket
+68,20180729,Aether Main,blue,"[44, 47, 52, 37, 26]","[21, 11]",1,Aerowolf Roxy,red,"[62, 3, 25, 58, 54]","[32, 51]",0,15:05,905,3,3,1,1,bracket
+68,20180729,Digital Devils Pro,blue,"[9, 65, 58, 47, 14]","[21, 63]",1,RRQ.O2,red,"[26, 25, 53, 20, 11]","[51, 44]",0,10:53,653,3,1,0,0,bracket
+68,20180729,Digital Devils Pro,red,"[9, 65, 3, 47, 20]","[44, 63]",1,RRQ.O2,blue,"[54, 58, 42, 51, 49]","[26, 21]",0,13:01,781,3,2,1,0,bracket
+68,20180729,Aether Main,blue,"[9, 21, 58, 42, 26]","[65, 47]",1,Digital Devils Pro,red,"[48, 25, 20, 51, 54]","[44, 63]",0,10:38,638,5,1,0,0,bracket
+68,20180729,Aether Main,red,"[54, 25, 20, 47, 51]","[65, 44]",1,Digital Devils Pro,blue,"[9, 58, 21, 42, 14]","[26, 63]",0,11:33,693,5,2,1,0,bracket
+68,20180729,Aether Main,blue,"[54, 65, 58, 36, 62]","[47, 51]",1,Digital Devils Pro,red,"[9, 26, 25, 42, 11]","[63, 44]",0,14:15,855,5,3,2,0,bracket
+68,20180729,Aerowolf Roxy,red,"[54, 25, 42, 17, 26]","[44, 63]",0,RRQ.O2,blue,"[9, 47, 62, 21, 11]","[58, 51]",1,12:36,756,3,1,0,0,bracket
+68,20180729,Aerowolf Roxy,blue,"[51, 26, 58, 25, 20]","[11, 63]",0,RRQ.O2,red,"[9, 47, 38, 65, 54]","[44, 21]",1,12:36,756,3,2,0,1,bracket
+68,20180727,Team Saiyan,blue,"[62, 65, 17, 31, 55]","[21, 58]",0,Aerowolf Roxy,red,"[14, 47, 11, 25, 54]","[51, 44]",1,12:04,724,1,1,0,0,qualifiers
+68,20180727,Bigetron Singapore,blue,"[26, 47, 58, 25, 55]","[17, 63]",0,Burmese Ghouls,red,"[51, 42, 62, 21, 49]","[54, 44]",1,16:09,969,1,1,0,0,qualifiers
+68,20180727,Digital Devils Pro,blue,"[17, 51, 25, 26, 9]","[54, 21]",1,Aerowolf Roxy,red,"[48, 58, 62, 65, 11]","[47, 44]",0,25:21,1521,1,1,0,0,qualifiers
+68,20180727,Bigetron Singapore,blue,"[54, 25, 58, 4, 26]","[17, 51]",0,Team Saiyan,red,"[55, 11, 65, 32, 62]","[21, 44]",1,10:59,659,1,1,0,0,qualifiers
+68,20180728,Team Saiyan,blue,"[32, 62, 17, 65, 26]","[21, 58]",0,Burmese Ghouls,red,"[54, 42, 11, 47, 49]","[44, 51]",1,18:40,1120,1,1,0,0,qualifiers
+68,20180728,Digital Devils Pro,blue,"[51, 65, 20, 47, 9]","[58, 21]",1,Bigetron Singapore,red,"[54, 26, 11, 25, 32]","[44, 17]",0,8:57,537,1,1,0,0,qualifiers
+68,20180728,Aerowolf Roxy,blue,"[11, 3, 62, 25, 54]","[58, 51]",1,Burmese Ghouls,red,"[26, 37, 42, 47, 49]","[21, 44]",0,8:47,527,1,1,0,0,qualifiers
+68,20180728,Team Saiyan,blue,"[9, 47, 58, 24, 38]","[21, 26]",1,Digital Devils Pro,red,"[54, 17, 49, 65, 62]","[44, 51]",0,17:19,1039,1,1,0,0,qualifiers
+68,20180728,Bigetron Singapore,red,"[54, 25, 11, 32, 26]","[17, 44]",1,Aerowolf Roxy,blue,"[9, 65, 62, 21, 24]","[58, 51]",0,9:51,591,1,1,0,0,qualifiers
+68,20180728,Digital Devils Pro,blue,"[54, 32, 26, 65, 9]","[21, 58]",1,Burmese Ghouls,red,"[48, 17, 11, 47, 62]","[51, 44]",0,17:51,1071,1,1,0,0,qualifiers
+68,20180727,IDONOTSLEEP,blue,"[26, 25, 58, 17, 19]","[63, 21]",0,RRQ.O2,red,"[32, 47, 11, 62, 42]","[44, 51]",1,14:57,897,1,1,0,0,qualifiers
+68,20180727,Aether Main,blue,"[32, 44, 25, 47, 36]","[21, 17]",1,Fantasy Main,red,"[63, 49, 42, 3, 54]","[58, 51]",0,16:12,972,1,1,0,0,qualifiers
+68,20180727,IDONOTSLEEP,blue,"[9, 26, 40, 58, 55]","[63, 51]",1,EVOS Esports,red,"[48, 25, 47, 11, 54]","[21, 44]",0,29:10,1750,1,1,0,0,qualifiers
+68,20180727,Aether Main,blue,"[54, 32, 65, 58, 26]","[21, 63]",1,RRQ.O2,red,"[36, 47, 25, 11, 62]","[44, 51]",0,13:43,823,1,1,0,0,qualifiers
+68,20180728,Fantasy Main,blue,"[42, 54, 47, 58, 20]","[51, 63]",0,RRQ.O2,red,"[62, 4, 26, 65, 11]","[44, 21]",1,11:32,692,1,1,0,0,qualifiers
+68,20180728,Aether Main,blue,"[3, 63, 54, 47, 9]","[21, 17]",1,EVOS Esports,red,"[26, 11, 20, 25, 58]","[51, 44]",0,17:23,1043,1,1,0,0,qualifiers
+68,20180728,Fantasy Main,blue,"[44, 54, 11, 42, 20]","[51, 21]",1,IDONOTSLEEP,red,"[26, 8, 58, 65, 14]","[63, 47]",0,21:10,1270,1,1,0,0,qualifiers
+68,20180728,RRQ.O2,blue,"[9, 47, 11, 63, 20]","[21, 26]",1,EVOS Esports,red,"[48, 24, 58, 65, 51]","[54, 44]",0,9:52,592,1,1,0,0,qualifiers
+68,20180728,IDONOTSLEEP,red,"[54, 25, 26, 11, 54]","[17, 21]",0,Aether Main,blue,"[9, 20, 58, 65, 51]","[63, 44]",1,15:11,911,1,1,0,0,qualifiers
+68,20180728,EVOS Esports,blue,"[44, 65, 11, 37, 55]","[51, 21]",1,Fantasy Main,red,"[54, 26, 58, 62, 42]","[63, 17]",0,12:23,743,1,1,0,0,qualifiers

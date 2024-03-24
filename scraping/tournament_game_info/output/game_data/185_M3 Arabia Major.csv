@@ -1,0 +1,33 @@
+tournament_code,date,t1_name,t1_side,t1_picks,t1_bans,t1_result,t2_name,t2_side,t2_picks,t2_bans,t2_result,game_time_str,game_time_sec,match_format_BON,game_no,t1_points,t2_points,tournament_stage
+185,20210910,GX Squad,blue,"('Sun', 'Kagura', 'Granger', 'Esmeralda', 'Khufra')",(),1,Unique Synergy,red,"('Diggie', 'Cecilion', 'Alice', 'Ruby', 'Yi Sun-Shin')",(),0,10:50,650,3,1,0,0,bracket
+185,20210910,GX Squad,red,"('Yu Zhong', 'Khufra', 'Lylia', 'Martis', 'Cecilion')",(),0,Unique Synergy,blue,"('Lapu-Lapu', 'Kagura', 'Ling', 'Jawhead', 'Barats')",(),1,15:56,956,3,2,1,0,bracket
+185,20210910,GX Squad,red,"('Barats', 'Sun', 'Luo Yi', 'Granger', 'Tigreal')",(),1,Unique Synergy,blue,"('Atlas', 'Lapu-Lapu', 'Hayabusa', 'Kagura', 'Yu Zhong')",(),0,11:20,680,3,3,1,1,bracket
+185,20210910,Joker,blue,"('Barats', 'Rafaela', ""Chang'e"", 'Sun', 'Ruby')",(),1,Ehra Gaming,red,"('Yve', 'Esmeralda', 'X.Borg', 'Baxia', 'Yu Zhong')",(),0,15:27,927,3,1,0,0,bracket
+185,20210910,Joker,red,"('Barats', 'Tigreal', ""Chang'e"", 'Roger', 'Kaja')",(),0,Ehra Gaming,blue,"('Mathilda', 'Pharsa', 'Mathilda', 'Yi Sun-Shin', 'Phoveus')",(),1,12:38,758,3,2,1,0,bracket
+185,20210910,Joker,blue,"('Uranus', 'Barats', ""Chang'e"", 'Popol and Kupa', 'Lapu-Lapu')",(),0,Ehra Gaming,red,"('Mathilda', 'Yi Sun-Shin', 'Chou', 'Kagura', 'X.Borg')",(),1,15:36,936,3,3,1,1,bracket
+185,20210917,GX Squad,blue,"('X.Borg', 'Sun', 'Luo Yi', 'Yi Sun-Shin', 'Rafaela')",(),0,Ehra Gaming,red,"('Estes', 'Esmeralda', 'Pharsa', 'Barats', 'Lapu-Lapu')",(),1,17:12,1032,3,1,0,0,bracket
+185,20210917,GX Squad,red,"('Kaja', 'Sun', 'Granger', 'Kagura', 'Mathilda')",(),1,Ehra Gaming,blue,"('Lolita', 'Yi Sun-Shin', 'Pharsa', 'X.Borg', 'Phoveus')",(),0,20:06,1206,3,2,0,1,bracket
+185,20210917,GX Squad,blue,"('X.Borg', 'Barats', 'Pharsa', 'Paquito', 'Popol and Kupa')",(),1,Ehra Gaming,red,"('Akai', 'Kimmy', 'Cecilion', 'Roger', 'Yu Zhong')",(),0,15:17,917,3,3,1,1,bracket
+185,20210910,Curse Squad,blue,"('X.Borg', 'Granger', 'Kimmy', 'Pharsa', 'Diggie')",(),1,Strength Speaks,red,"('Cecilion', 'Yi Sun-Shin', 'Harith', 'Khufra', 'Balmond')",(),0,14:00,840,3,1,0,0,bracket
+185,20210910,Curse Squad,red,"('Yu Zhong', 'Kagura', 'Lunox', 'Yi Sun-Shin', 'Jawhead')",(),0,Strength Speaks,blue,"('Tigreal', 'Esmeralda', 'Pharsa', 'Sun', 'Roger')",(),1,19:3,1143,3,2,1,0,bracket
+185,20210910,Curse Squad,blue,"('Phoveus', 'Cecilion', 'X.Borg', 'Yi Sun-Shin', 'Khufra')",(),1,Strength Speaks,red,"('Tigreal', 'Pharsa', 'Harith', 'Natan', 'Barats')",(),0,16:10,970,3,3,1,1,bracket
+185,20210910,Akatsuki,blue,"('X.Borg', 'Yve', 'Ling', 'Saber', 'Mathilda')",(),1,Toxic TT,red,"('Khufra', 'Esmeralda', 'Granger', 'Cecilion', 'Yu Zhong')",(),0,14:42,882,3,1,0,0,bracket
+185,20210910,Akatsuki,red,"('Barats', 'Sun', 'Lunox', 'Harley', 'Khufra')",(),0,Toxic TT,blue,"('Tigreal', 'Yi Sun-Shin', 'Uranus', 'Kagura', 'Masha')",(),1,9:55,595,3,2,1,0,bracket
+185,20210910,Akatsuki,blue,"('X.Borg', 'Rafaela', 'Esmeralda', 'Granger', 'Yve')",(),0,Toxic TT,red,"('Tigreal', 'Yi Sun-Shin', 'Uranus', 'Kagura', 'Lunox')",(),1,19:54,1194,3,3,1,1,bracket
+185,20210917,Curse Squad,blue,"('X.Borg', 'Kagura', 'Esmeralda', 'Clint', 'Lolita')",(),1,Toxic TT,red,"('Pharsa', 'Yi Sun-Shin', 'Lunox', 'Tigreal', 'Uranus')",(),0,12:39,759,3,1,0,0,bracket
+185,20210917,Curse Squad,red,"('Lapu-Lapu', 'Kagura', 'Esmeralda', 'Hanzo', 'Lolita')",(),0,Toxic TT,blue,"('Mathilda', 'Yi Sun-Shin', ""Chang'e"", 'Yve', 'Gloo')",(),1,29:47,1787,3,2,1,0,bracket
+185,20210917,Curse Squad,blue,"('X.Borg', 'Roger', 'Pharsa', 'Kimmy', 'Diggie')",(),1,Toxic TT,red,"('Khufra', 'Ling', ""Chang'e"", 'Kagura', 'Phoveus')",(),0,17:05,1025,3,3,1,1,bracket
+185,20210917,GX Squad,blue,"('Sun', 'Granger', 'Esmeralda', ""Chang'e"", 'Mathilda')",(),0,Curse Squad,red,"('Gloo', 'Kimmy', 'Yi Sun-Shin', 'Kagura', 'Khaleed')",(),1,13:24,804,3,1,0,0,bracket
+185,20210917,GX Squad,red,"('Yu Zhong', 'Yi Sun-Shin', 'Kagura', 'Esmeralda', 'Popol and Kupa')",(),0,Curse Squad,blue,"('Mathilda', 'Lunox', 'Selena', 'Roger', 'Khaleed')",(),1,25:30,1530,3,2,0,1,bracket
+185,20210910,Unique Synergy,blue,"('Paquito', 'Uranus', 'Ling', ""Chang'e"", 'Khufra')",(),1,Joker,red,"('Diggie', 'Hayabusa', 'Esmeralda', 'Kagura', 'Yu Zhong')",(),0,9:57,597,1,1,0,0,bracket
+185,20210917,Toxic TT,red,"('Yve', 'Barats', 'X.Borg', 'Claude', 'Khufra')",(),0,Unique Synergy,blue,"('Chou', ""Chang'e"", 'Lunox', 'Hayabusa', 'Esmeralda')",(),1,22:47,1367,1,1,0,0,bracket
+185,20210910,Strength Speaks,blue,"('X.Borg', 'Lapu-Lapu', ""Chang'e"", 'Esmeralda', 'Atlas')",(),0,Akatsuki,red,"('Popol and Kupa', 'Harley', 'Kagura', 'Roger', 'Thamuz')",(),1,23:57,1437,1,1,0,0,bracket
+185,20210917,Ehra Gaming,blue,"('Yu Zhong', 'Barats', ""Chang'e"", 'Cecilion', 'Diggie')",(),0,Akatsuki,red,"('Khufra', 'Pharsa', 'Esmeralda', 'Hayabusa', 'X.Borg')",(),1,13:01,781,1,1,0,0,bracket
+185,20210917,Unique Synergy,red,"('X.Borg', 'Ling', 'Esmeralda', 'Pharsa', 'Jawhead')",(),0,Akatsuki,blue,"('Khufra', 'Cyclops', 'Kagura', 'Lancelot', 'Lapu-Lapu')",(),1,15:42,942,1,1,0,0,bracket
+185,20210924,GX Squad,red,"('Yu Zhong', 'Bane', 'Pharsa', 'Saber', 'Gloo')",(),0,Akatsuki,blue,"('Khufra', 'Yi Sun-Shin', 'Esmeralda', 'Kagura', 'Lapu-Lapu')",(),1,17:37,1057,3,1,0,0,bracket
+185,20210924,GX Squad,blue,"('X.Borg', 'Kagura', 'Natan', 'Kaja', 'Tigreal')",(),0,Akatsuki,red,"('Khufra', 'Cyclops', 'Pharsa', 'Lancelot', 'Lapu-Lapu')",(),1,24:1,1441,3,2,0,1,bracket
+185,20210924,Curse Squad,blue,"('Paquito', 'Kagura', 'Yu Zhong', 'Yi Sun-Shin', 'Rafaela')",(),1,Akatsuki,red,"('Mathilda', 'Yve', 'Granger', 'Lapu-Lapu', 'Phoveus')",(),0,16:40,1000,5,1,0,0,bracket
+185,20210924,Curse Squad,red,"('X.Borg', 'Martis', 'Yu Zhong', 'Cecilion', 'Diggie')",(),0,Akatsuki,blue,"('Khufra', 'Pharsa', 'Ling', 'Cyclops', 'Khaleed')",(),1,16:29,989,5,2,1,0,bracket
+185,20210924,Curse Squad,blue,"('Hayabusa', 'Yu Zhong', 'Pharsa', 'Claude', 'Mathilda')",(),1,Akatsuki,red,"('Tigreal', 'Ling', 'Kagura', 'Barats', 'Lapu-Lapu')",(),0,13:30,810,5,3,1,1,bracket
+185,20210924,Curse Squad,red,"('X.Borg', 'Kagura', 'Aulus', 'Granger', 'Khufra')",(),0,Akatsuki,blue,"('Akai', 'Yi Sun-Shin', 'Lunox', 'Esmeralda', 'Lapu-Lapu')",(),1,24:14,1454,5,4,2,1,bracket
+185,20210924,Curse Squad,blue,"('Kagura', 'Yu Zhong', 'Yi Sun-Shin', 'Claude', 'Lolita')",(),0,Akatsuki,red,"('Mathilda', ""Chang'e"", 'Phoveus', 'Bane', 'X.Borg')",(),1,17:353,1373,5,5,2,2,bracket

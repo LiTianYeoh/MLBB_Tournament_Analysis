@@ -1,0 +1,7 @@
+tournament_code,date,t1_name,t1_side,t1_picks,t1_bans,t1_result,t2_name,t2_side,t2_picks,t2_bans,t2_result,game_time_str,game_time_sec,match_format_BON,game_no,t1_points,t2_points,tournament_stage
+179,20211017,Alter Ego X,red,"('Phoveus', 'Aulus', 'Pharsa', 'Yu Zhong', 'Jawhead')","('Ling', 'Hayabusa', 'Yve', 'Esmeralda', 'Rafaela')",1,Bigetron Beta,blue,"('Mathilda', 'Yi Sun-Shin', 'Kaja', 'Paquito', 'Ruby')","('Alice', 'Benedetta', 'Barats', 'Natan', 'Sun')",0,11:03,663,3,1,0,0,bracket
+179,20211017,Alter Ego X,blue,"('Paquito', 'Baxia', 'Yve', 'Benedetta', 'Natalia')","('Ling', 'Jawhead', 'Barats', 'Ruby', 'Lapu-Lapu')",1,Bigetron Beta,red,"('Mathilda', 'Natan', 'Pharsa', 'Bane', 'Yu Zhong')","('Aulus', 'Rafaela', 'Phoveus', 'Hayabusa', 'Sun')",0,18:10,1090,3,2,1,0,bracket
+179,20211017,Alter Ego X,blue,"('Ruby', 'Paquito', 'Yve', 'Alice', 'Rafaela')",(),0,EVOS Icon,red,"('Angela', 'X.Borg', 'Natan', 'Fanny', 'Esmeralda')",(),1,36:48,2208,5,1,0,0,bracket
+179,20211017,Alter Ego X,red,"('Paquito', 'Sun', 'Harley', 'Benedetta', 'Khufra')",(),1,EVOS Icon,blue,"('Carmilla', 'Lunox', 'Kagura', 'Hayabusa', 'Esmeralda')",(),0,11:26,686,5,2,0,1,bracket
+179,20211017,Alter Ego X,blue,"('Esmeralda', 'Granger', 'Yve', 'Paquito', 'Jawhead')",(),1,EVOS Icon,red,"('Mathilda', 'X.Borg', 'Pharsa', 'Yi Sun-Shin', 'Barats')",(),0,27:25,1645,5,3,1,1,bracket
+179,20211017,Alter Ego X,blue,"('Paquito', 'Aulus', 'Lylia', 'Benedetta', 'Khufra')",(),1,EVOS Icon,red,"('Mathilda', 'Yu Zhong', 'Cyclops', 'Hayabusa', 'Esmeralda')",(),0,16:09,969,5,4,2,1,bracket
