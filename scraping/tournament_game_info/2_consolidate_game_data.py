@@ -1,11 +1,14 @@
 import os
 import pandas as pd
+from datetime import datetime
 from utils import check_tournament_codes
 
 
 # output name
 tournament_data_name = "tournament_data.csv"
-output_name = "consolidated_game_data.csv"
+
+curr_date = datetime.now().strftime("%Y%m%d")
+output_name = f"consolidated_game_data_{curr_date}.csv"
 
 
 # get dircetory path

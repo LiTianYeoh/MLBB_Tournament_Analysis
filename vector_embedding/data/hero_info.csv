@@ -1,0 +1,245 @@
+Icon,Hero,Hero Code,Role(s),Specialty(ies),Lane Recommendation(s),Region of origin,Price(s),Release year,Name
+,"Miya, the Moonlight Archer",1,Marksman,Finisher,Gold Lane,Azrya Woodlands,"10800
+ 399",2016,Miya
+,"Balmond, the Bloody Beast",2,Fighter,Damage,Jungling/EXP Lane,The Barren Lands,"6500
+ 299",2016,Balmond
+,"Saber, the Wandering Sword",3,Assassin,Charge,Jungling,Laboratory 1718,"6500
+ 299",2016,Saber
+,"Alice, the Queen of Blood",4,Mage/Tank,Charge/Regen,EXP Lane/Mid Lane,The Barren Lands,"15000
+ 399",2016,Alice
+,"Nana, the Sweet Leonin",5,Mage,Poke,Mid Lane/Roaming,Azrya Woodlands,"6500
+ 299",2016,Nana
+,"Tigreal, the Warrior of Dawn",6,Tank,Crowd Control,Roaming,Moniyan Empire,"6500
+ 299",2016,Tigreal
+,"Alucard, the Demon Hunter",7,Fighter/Assassin,Chase/Damage,Jungling,Moniyan Empire,"15000
+ 399",2016,Alucard
+,"Karina, the Shadow Blade",8,Assassin,Finisher,Jungling,Azrya Woodlands,"32000
+ 599",2016,Karina
+,"Akai, the Panda Warrior",9,Tank,Guard,Roaming/Jungling,Cadia Riverlands,"32000
+ 599",2016,Akai
+,"Franco, the Frozen Warrior",10,Tank,Initiator,Roaming,Northern Vale,"32000
+ 749",2016,Franco
+,"Bane, the Frozen King",11,Fighter/Mage,Push/Burst,EXP Lane/Jungling,Northern Vale,"6500
+ 299",2016,Bane
+,"Bruno, the  Protector",12,Marksman,Finisher,Gold Lane,Agelta Drylands,"15000
+ 399",2016,Bruno
+,"Clint, the West Justice",13,Marksman,Finisher,Gold Lane,Los Pecados,"15000
+ 399",2016,Clint
+,"Rafaela, the Wings of Holiness",14,Support,Regen,Roaming,Moniyan Empire,"6500
+ 299",2016,Rafaela
+,"Eudora, the Lightning Weaver",15,Mage,Control,Mid Lane,Northern Vale,"2000
+ 399",2016,Eudora
+,"Zilong, the Spear of Dragon",16,Fighter/Assassin,Chase/Damage,EXP Lane/Jungling,Cadia Riverlands,"15000
+ 399",2016,Zilong
+,"Fanny, the Blade Dancer",17,Assassin,Chase,Jungling,Moniyan Empire,"24000
+ 499",2016,Fanny
+,"Layla, the Energy Gunner",18,Marksman,Finisher,Gold Lane,Agelta Drylands,"2000
+ 299",2016,Layla
+,"Minotaur, the Son of Minos",19,Tank/Support,Crowd Control/[[]],Roaming,Agelta Drylands,"15000
+ 399",2016,Minotaur
+,"Lolita, the Steel Elf",20,Support/Tank,Guard/Crowd Control,Roaming,Agelta Drylands,"32000
+ 599",2016,Lolita
+,"Hayabusa, the Crimson Shadow",21,Assassin,Chase,Jungling,Cadia Riverlands,"32000
+ 599",2016,Hayabusa
+,"Freya, the Valkyrie",22,Fighter,Chase,EXP Lane/Jungling,Northern Vale,599,2016,Freya
+,"Gord, the Professor of the Mystic",23,Mage,Poke,Mid Lane,Northern Vale,"24000
+ 499",2016,Gord
+,"Natalia, the Bright Claw",24,Assassin,Chase,Jungling/Roaming,Moniyan Empire,"32000
+ 599",2016,Natalia
+,"Kagura, the Onmyouji Master",25,Mage,Poke,Mid Lane,Cadia Riverlands,"32000
+ 599",2016,Kagura
+,"Chou, the Kung Fu Boy",26,Fighter,Chase,EXP Lane/Roaming,Eruditio,"24000
+ 499",2016,Chou
+,"Sun, the Monkey King",27,Fighter,Push,EXP Lane/Jungling,Cadia Riverlands,"32000
+ 599",2016,Sun
+,"Alpha, the Blade of Enmity",28,Fighter,Charge,EXP Lane/Jungling,Agelta Drylands,"32000
+ 599",2017,Alpha
+,"Ruby, the Little Red Hood",29,Fighter,Crowd Control,EXP Lane/Roaming,Moniyan Empire,"32000
+ 599",2017,Ruby
+,"Yi Sun-shin, the Paenlong Legend",30,Assassin/Marksman,Finisher/Chase,Jungling,Cadia Riverlands,"32000
+ 599",2017,Yi Sun-shin
+,"Moskov, the Spear of Quiescence",31,Marksman,Finisher,Gold Lane,Agelta Drylands,"32000
+ 399",2017,Moskov
+,"Johnson, the Wild Engine",32,Tank/Support,Support/Crowd Control,Roaming,Agelta Drylands,"32000
+ 599",2017,Johnson
+,"Cyclops, the Starsoul Magician",33,Mage,Poke,Mid Lane/Jungling,Nebula Chronorift,"15000
+ 399",2017,Cyclops
+,"Estes, the Moon Elf King",34,Support,Regen,Roaming,Azrya Woodlands,"24000
+ 499",2017,Estes
+,"Hilda, the Power of Megalith",35,Fighter/Tank,Damage/Regen,EXP Lane/Roaming,Northern Vale,"24000
+ 499",2017,Hilda
+,"Aurora, the Frost Oracle",36,Mage,Crowd Control,Mid Lane/Roaming,Northern Vale,"24000
+ 499",2017,Aurora
+,"Lapu-Lapu, the Courageous Blade",37,Fighter,Chase,EXP Lane,Vonetis Islands,"32000
+ 599",2017,Lapu-Lapu
+,"Vexana, the Shimmer of Hope",38,Mage,Poke,Mid Lane,The Barren Lands,"32000
+ 599",2017,Vexana
+,"Roger, the Dire Wolf Hunter",39,Fighter/Marksman,Finisher/Burst,Jungling,Moniyan Empire,"24000
+ 499",2017,Roger
+,"Karrie, the Lost Star",40,Marksman,Finisher,Gold Lane,Alaghat,"24000
+ 499",2017,Karrie
+,"Gatotkaca, the Mighty Legend",41,Tank/Fighter,Crowd Control/Burst,EXP Lane/Roaming,Nebula Chronorift,"32000
+ 599",2017,Gatotkaca
+,"Harley, the Mage Genius",42,Assassin/Mage,Burst/Poke,Jungling/Mid Lane,Northern Vale,"32000
+ 599",2017,Harley
+,"Irithel, the Jungle Heart",43,Marksman,Finisher,Gold Lane,Azrya Woodlands,"32000
+ 599",2017,Irithel
+,"Grock, the Fortress Titan",44,Tank/Fighter,Crowd Control/Initiator,Roaming/EXP Lane,The Barren Lands,"32000
+ 599",2017,Grock
+,"Argus, the Dark Angel",45,Fighter,Charge,EXP Lane,The Barren Lands,"32000
+ 599",2017,Argus
+,"Odette, the Swan Princess",46,Mage,Burst,Mid Lane,Moniyan Empire,"20
+ 120",2017,Odette
+,"Lancelot, the Blade of Roses",47,Assassin,Chase,Jungling,Moniyan Empire,"32000
+ 599",2017,Lancelot
+,"Diggie, the Timekeeper",48,Support,Guard,Roaming,Agelta Drylands,"24000
+ 499",2017,Diggie
+,"Hylos, the Grand Warden",49,Tank,Guard,Roaming/EXP Lane,Agelta Drylands,"32000
+ 599",2017,Hylos
+,"Zhask, the  King of Swarms",50,Mage,Chase,Mid Lane,Kastiya,"32000
+ 599",2017,Zhask
+,"Helcurt, the Shadowbringer",51,Assassin,Push,Jungling,The Barren Lands,"32000
+ 599",2017,Helcurt
+,Pharsa,52,Mage,TBA,Midlane,TBA,,2017,Pharsa
+,"Lesley, the Deadly Sniper",53,Marksman/Assassin,Finisher/Burst,Gold Lane,Moniyan Empire,"32000
+ 599",2018,Lesley
+,"Jawhead, the Steel Sweetheart",54,Fighter,Charge,EXP Lane/Roaming,Laboratory 1718,"32000
+ 599",2018,Jawhead
+,"Angela, the Bunnylove",55,Support,Guard,Roaming,Laboratory 1718,"24000
+ 499",2018,Angela
+,"Gusion, the Holy Blade",56,Assassin,Burst,Jungling,Moniyan Empire,"32000
+ 599",2018,Gusion
+,"Valir, the Son of Flames",57,Mage,Damage,Mid Lane,Agelta Drylands,"32000
+ 599",2018,Valir
+,"Martis, the Ashura King",58,Fighter,Finisher,EXP Lane/Jungling,Nebula Chronorift,"32000
+ 599",2018,Martis
+,"Uranus, the Aesthereal Defender",59,Tank,Regen,EXP Lane/Roaming,Celestial Palace,"32000
+ 599",2018,Uranus
+,"Hanabi, the Scarlet Flower",60,Marksman,Finisher,Gold Lane,Cadia Riverlands,"32000
+ 599",2018,Hanabi
+,"Chang'e, the Moon Palace Immortal",61,Mage,Poke,Mid Lane,Cadia Riverlands,"32000
+ 599
+ 120",2018,Chang'e
+,"Kaja, the Nazar King",62,Support/Fighter,Control/Charge,EXP Lane/Roaming,Celestial Palace,"32000
+ 599",2018,Kaja
+,"Selena, the Abyssal Witch",63,Assassin/Mage,Initiator/Finisher,Jungling/Roaming,The Barren Lands,"32000
+ 599",2018,Selena
+,"Aldous, the Soul Contractor",64,Fighter,Burst,EXP Lane/Jungling,Agelta Drylands,"32000
+ 599",2018,Aldous
+,"Claude, the Master Thief",65,Marksman,Burst,Gold Lane,Los Pecados,"32000
+ 599",2018,Claude
+,"Vale, the Windtalker",66,Mage,Burst,Mid Lane,Agelta Drylands,"32000
+ 599",2019,Vale
+,"Leomord, the Sworn Sword",67,Fighter,Chase,EXP Lane/Jungling,The Barren Lands,"32000
+ 599",2018,Leomord
+,"Lunox, the Twilight Goddess",68,Mage,Burst,Mid Lane,Agelta Drylands,"32000
+ 599",2018,Lunox
+,"Hanzo, the Akuma Ninja",69,Assassin,Burst,Jungling,Cadia Riverlands,"32000
+ 599",2018,Hanzo
+,"Belerick, the Guard of Nature",70,Tank,Crowd Control,EXP Lane/Roaming,Agelta Drylands,"32000
+ 599",2018,Belerick
+,"Kimmy, the Jetpack Rebel",71,Marksman/Mage,Damage/Magic Damage,Gold Lane,Moniyan Empire,"32000
+ 599",2018,Kimmy
+,"Thamuz, the Lord Lava",72,Fighter,Chase,EXP Lane/Jungling,The Barren Lands,"32000
+ 599",2018,Thamuz
+,"Harith, the Time Traveler",73,Mage,Chase,Mid Lane/Jungling,Moniyan Empire,"32000
+ 599",2018,Harith
+,"Minsitthar, the Courageous Warrior",74,Fighter,Initiator,EXP Lane/Roaming,Cadia Riverlands,"32000
+ 599",2018,Minsitthar
+,Kadita,75,Mage/Assassin,TBA,Mid Lane/Roaming,Vonetis Islands,,2018,Kadita
+,"Faramis, the Soul Binder",76,Support/Mage,Guard/Charge,Roaming/Mid Lane,The Barren Lands,"32000
+ 599",2018,Faramis
+,"Badang, the Tribal Warrior",77,Fighter,Charge,EXP Lane,Vonetis Islands,"32000
+ 599",2019,Badang
+,"Khufra, the Desert Tyrant",78,Tank,Initiator,Roaming,Agelta Drylands,"32000
+ 599",2019,Khufra
+,"Granger, the Death Chanter",79,Marksman,Burst,Gold Lane/Jungling,Moniyan Empire,"32000
+ 599",2019,Granger
+,"Guinevere, the Ms. Violet",80,Fighter,Burst,EXP Lane,Moniyan Empire,"32000
+ 599",2019,Guinevere
+,"Esmeralda, the Astrologer",81,Mage/Tank,Regen/Mixed Damage,EXP Lane,Agelta Drylands,"32000
+ 599",2019,Esmeralda
+,"Terizla, the Executioner",82,Fighter,Burst,EXP Lane,The Barren Lands,"32000
+ 599",2019,Terizla
+,"X.Borg, the Firaga Armor",83,Fighter,Regen,EXP Lane/Jungling,Agelta Drylands,"32000
+ 599",2019,X.Borg
+,"Ling, the Cyan Finch",84,Assassin,Chase,Jungling,Cadia Riverlands,"32000
+ 599",2019,Ling
+,"Dyrroth, the Prince of the Abyss",85,Fighter,Charge,EXP Lane/Jungling,The Barren Lands,"32000
+ 599",2019,Dyrroth
+,"Lylia, the Little Witch",86,Mage,Push,Mid Lane,Northern Vale,"32000
+ 599",2019,Lylia
+,"Baxia, the Mystic Tortoise",87,Tank,Support,Roaming/Jungling,Cadia Riverlands,"32000
+ 599",2019,Baxia
+,"Masha, the Wild-oats Fist",88,Fighter/Tank,Push/Damage,EXP Lane/Jungling,Northern Vale,"32000
+ 599",2019,Masha
+,"Wanwan, the Agile Tiger",89,Marksman,Finisher,Gold Lane,Cadia Riverlands,"32000
+ 599",2019,Wanwan
+,"Silvanna, the Imperial Knightess",90,Fighter,Initiator,EXP Lane/Roaming,Moniyan Empire,"32000
+ 599",2019,Silvanna
+,"Cecilion, the Embrace of Night",91,Mage,Poke,Mid Lane,Moniyan Empire,"32000
+ 599",2020,Cecilion
+,"Carmilla, the Shadow of Twilight",92,Support/Tank,Crowd Control/Damage,Roaming/EXP Lane,Moniyan Empire,"32000
+ 599",2020,Carmilla
+,"Atlas, the Ocean Gladiator",93,Tank,Crowd Control,Roaming,Northern Vale,"32000
+ 599",2020,Atlas
+,"Popol and Kupa, the Icefield Companions",94,Marksman,Push,Gold Lane,Northern Vale,"32000
+ 599",2020,Popol and Kupa
+,"Yu Zhong, the Black Dragon",95,Fighter,Regen,EXP Lane,Cadia Riverlands,"32000
+ 599",2020,Yu Zhong
+,"Luo Yi, the Yin-yang Geomancer",96,Mage,Support,Mid Lane,Cadia Riverlands,"32000
+ 599",2020,Luo Yi
+,"Benedetta, the Shadow Ranger",97,Assassin/Fighter,Chase/Burst,EXP Lane/Jungling,The Barren Lands,"32000
+ 599",2020,Benedetta
+,"Khaleed, the Desert Scimitar",98,Fighter,Damage,EXP Lane,Agelta Drylands,"32000
+ 599",2020,Khaleed
+,"Barats, the Dino Rider",99,Tank/Fighter,Damage/Crowd Control,Jungling/EXP Lane,Agelta Drylands,"32000
+ 599",2020,Barats
+,"Brody, the  Lone Star",100,Marksman,Burst,Gold Lane,The Barren Lands,"32000
+ 599",2020,Brody
+,"Yve, the Astrowarden",101,Mage,Burst,Mid Lane,Northern Vale,"32000
+ 599",2021,Yve
+,"Mathilda, the Swift Plume",102,Support/Assassin,Initiator/Guard,Roaming/Mid Lane,Los Pecados,"32000
+ 599",2020,Mathilda
+,"Paquito, the  Heavenly Fist",103,Fighter/Assassin,Chase/Damage,EXP Lane/Jungling,The Barren Lands,"32000
+ 599",2021,Paquito
+,"Gloo, the Swamp Spirits",104,Tank,Regen,Roaming/EXP Lane,Azrya Woodlands,"32000
+ 599",2021,Gloo
+,"Beatrix, the Dawnbreak Soldier",105,Marksman,Finisher,Gold Lane,Agelta Drylands,"32000
+ 599",2021,Beatrix
+,"Phoveus, the Shadow of Dread",106,Fighter,Chase,EXP Lane,The Barren Lands,"32000
+ 599",2021,Phoveus
+,"Natan, the Spacetime Walker",107,Marksman,Burst,Gold Lane,Agelta Drylands,"32000
+ 599",2021,Natan
+,"Aulus, the Warrior of Ferocity",108,Fighter,Damage,EXP Lane/Jungling,The Barren Lands,"32000
+ 599",2021,Aulus
+,"Aamon, the Duke of Shards",109,Assassin,Chase,Jungling,Moniyan Empire,"32000
+ 599",2021,Aamon
+,"Valentina, the Prophetess of the Night",110,Mage,Burst,Mid Lane,Moniyan Empire,"32000
+ 599",2021,Valentina
+,"Edith, the Ancient Guard",111,Tank/Marksman,Control/Burst,EXP Lane/Roaming,Sanctum Island,"32000
+ 599",2021,Edith
+,"Floryn, the  Budding Hope",112,Support,Poke,Roaming,Agelta Drylands,"32000
+ 599",2021,Floryn
+,"Yin, the Martial Genius",113,Fighter/Assassin,Burst/Control,EXP Lane/Jungling,Cadia Riverlands,"32000
+ 599",2022,Yin
+,"Melissa, the Cursed Needle",114,Marksman,Finisher,Gold Lane,Moniyan Empire,"32000
+ 599",2022,Melissa
+,"Xavier, the Defier of Light",115,Mage,Damage,Mid Lane,Moniyan Empire,"32000
+ 599",2022,Xavier
+,"Julian, the Scarlet Raven",116,Fighter/Mage,Chase/Magic Damage,EXP Lane/Jungling,Moniyan Empire,"32000
+ 599",2022,Julian
+,"Fredrinn, the Rogue Appraiser",117,Fighter/Tank,Damage/Chase,EXP Lane/Jungling,Los Pecados,"32000
+ 599",2022,Fredrinn
+,"Joy, the Flash of Miracle",118,Assassin,Chase,EXP Lane/Jungling,Azrya Woodlands,"32000
+ 599",2022,Joy
+,"Novaria, the Star Rebel",119,Mage,Burst,Mid Lane,Agelta Drylands,"32000
+ 599",2023,Novaria
+,"Arlott, the Lone Lancer",120,Fighter/Assassin,Charge/Burst,EXP Lane/Jungling,Moniyan Empire,"32000
+ 599",2023,Arlott
+,"Ixia, the Arclight Outlaw",121,Marksman,Finisher,Gold Lane,Agelta Drylands,"32000
+ 599",2023,Ixia
+,"Nolan, the Cosmic Wayfinder",122,Assassin,Chase,Jungling,Agelta Drylands,"32000
+ 599",2023,Nolan
+,"Cici, the Buoyant Performer",123,Fighter,Damage,EXP Lane,Moniyan Empire,"32000
+ 599",2023,Cici

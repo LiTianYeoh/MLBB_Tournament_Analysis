@@ -23,21 +23,25 @@ for main_url in main_urls:
     main_soup = get_soup(main_url)
 
     # get tournament rows element
-    tournament_rows = main_soup.find_all('div', class_='divRow')
+    tournament_rows = main_soup.find_all('div', class_='gridRow')
 
     # scrape all tournament urls
     for tournament_elem in tournament_rows:
-        tournament_url_elem = tournament_elem.find('div', class_ = 'Tournament').find('b').find('a')
+        tournament_url_elem = tournament_elem.find('div', class_ = 'Tournament').find_all('a')[-1]
         tournament_url = tournament_url_elem.get('href')
-        tournament_name = tournament_url_elem.get_text()
+        tournament_name = tournament_url_elem.get('title')
         # check is winner exist, i.e. tournament have finished
         tournament_winner_elem = tournament_elem.find('div', class_ = 'FirstPlace')
-        winner_player_elem = tournament_winner_elem.find('span', class_ = 'Player')
+        if tournament_winner_elem is None:
+            warning_msg = f"Omitting tournament '{tournament_name}' as could not find the winner."
+            #print(warning_msg)
+            continue
+        winner_player_elem = tournament_winner_elem.find('span', class_ = 'Participants')
         if winner_player_elem is None:
             warning_msg = f"Omitting tournament '{tournament_name}' as could not find the winner."
             #print(warning_msg)
             continue
-        winner_a_tag = winner_player_elem.find('a')
+        winner_a_tag = winner_player_elem.find('span', class_ = 'name').find('a')
         if winner_a_tag is None:
             warning_msg = f"Omitting tournament '{tournament_name}' as could not find the winner."
             #print(warning_msg)

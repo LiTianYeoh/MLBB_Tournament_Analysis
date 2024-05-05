@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-def _adjust_hero_name(hero_name):
+def adjust_hero_name(hero_name):
 
     # if 'popol' in hero_name.lower():
     #     return 'popol'

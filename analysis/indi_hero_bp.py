@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 from utils_analysis import replace_error_date
-from utils_analysis import convert_bp_str_to_list, check_ban_pick_result, _adjust_hero_name, get_all_stats
+from utils_analysis import convert_bp_str_to_list, check_ban_pick_result, adjust_hero_name, get_all_stats
 from datetime import datetime
 from tqdm import tqdm
 import sys
@@ -16,7 +16,7 @@ tournament_end_date = 20231231 # max end date (inclusive), yyyymmdd
 
 # dataset names
 tournament_data_name = "tournament_data.csv"
-game_data_name = "consolidated_game_data.csv"
+game_data_name = "consolidated_game_data_20240505.csv"
 hero_info_name = "hero_info.csv"
 
 
@@ -33,7 +33,7 @@ if not os.path.exists(result_dir):
 # read hero info
 hero_info_path = os.path.join(data_dir, hero_info_name)
 hero_info_df = pd.read_csv(hero_info_path, usecols=['Name', 'Hero Code'])
-hero_info_df['Name'] = hero_info_df['Name'].apply(_adjust_hero_name)
+hero_info_df['Name'] = hero_info_df['Name'].apply(adjust_hero_name)
 
 # read tournament data
 tournament_data_path = os.path.join(data_dir, tournament_data_name)

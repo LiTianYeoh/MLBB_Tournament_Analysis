@@ -2,7 +2,7 @@ import os
 import numpy as np
 import pandas as pd
 import seaborn as sns
-from utils_analysis import _adjust_hero_name, replace_error_date, convert_bp_str_to_list
+from utils_analysis import adjust_hero_name, replace_error_date, convert_bp_str_to_list
 from datetime import datetime
 from tqdm import tqdm
 import sys
@@ -19,7 +19,7 @@ pick_rate_threshold = 0.05 # minimum pick rate for a hero to be included in the 
 
 # dataset names
 tournament_data_name = "tournament_data.csv"
-game_data_name = "consolidated_game_data.csv"
+game_data_name = "consolidated_game_data_20240505.csv"
 hero_info_name = "hero_info.csv"
 
 
@@ -36,7 +36,7 @@ if not os.path.exists(result_dir):
 # read hero info
 hero_info_path = os.path.join(data_dir, hero_info_name)
 hero_info_df = pd.read_csv(hero_info_path, usecols=['Name', 'Hero Code'])
-hero_info_df['Name'] = hero_info_df['Name'].apply(_adjust_hero_name)
+hero_info_df['Name'] = hero_info_df['Name'].apply(adjust_hero_name)
 
 # read tournament data
 tournament_data_path = os.path.join(data_dir, tournament_data_name)

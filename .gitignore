@@ -1,1 +1,4 @@
 ml_bp_analysis.txt
+scraping/tournament_game_info/output/game_data/*
+scraping/tournament_game_info/z_archive
+**/__pycache__/*

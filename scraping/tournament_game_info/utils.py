@@ -215,14 +215,23 @@ def parse_pick_elem(team_pick_elem):
     return team_side, hero_names
 
 def check_green_tick(result_elem):
-    img_elem = result_elem.find('img')
-    src_text = img_elem.get('src')
-    if 'green' in src_text.lower():
+    if result_elem.find('i') is not None:
+        #if 'green' in result_elem.find('i').get('class').lower():
         return 1
-    if 'no' in src_text.lower():
-        return 0
+    elif result_elem.find('img') is not None:
+        if 'no' in result_elem.find('img').get('src').lower():
+            return 0
     else:
         return None
+
+    # img_elem = result_elem.find('img')
+    # src_text = img_elem.get('src')
+    # if 'green' in src_text.lower():
+    #     return 1
+    # if 'no' in src_text.lower():
+    #     return 0
+    # else:
+    #     return None
     
 def parse_ban_elem(ban_elem):
     ban_table_elem = ban_elem.find('table')

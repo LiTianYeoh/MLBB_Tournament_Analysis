@@ -5,7 +5,7 @@ from datetime import datetime
 from utils import get_soup, check_duplicate_tournament, check_qualifying_stage_url, get_tournament_data, get_game_data, match_hero_codes, clean_filename, convert_list_to_tuple
 from tqdm import tqdm
 
-tournament_urls_name = '20231229_tournament_urls.txt'
+tournament_urls_name = '20240505_tournament_urls.txt'
 
 # get dircetory path
 script_dir = os.path.dirname(os.path.abspath(__file__))
