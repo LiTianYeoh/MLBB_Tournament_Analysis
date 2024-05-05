@@ -1,3 +1,0 @@
-tournament_code,date,t1_name,t1_side,t1_picks,t1_bans,t1_result,t2_name,t2_side,t2_picks,t2_bans,t2_result,game_time_str,game_time_sec,match_format_BON,game_no,t1_points,t2_points,tournament_stage
-74,20231201,Bigetron Era,red,"[87, 12, 52, 19, 119]","[80, 89, 111, 118, 122]",0,Omega Empress,blue,"[83, 9, 86, 100, 102]","[97, 103, 117, 120, 48]",0,23:47,1427,1,1,0,0,bracket
-74,20231201,Bigetron Era,blue,"[80, 82, 105, 92, 29]","[89, 111, 118, 87, 119]",0,Omega Empress,red,"[19, 122, 76, 12, 112]","[48, 120, 102, 117, 86]",0,14:46,886,1,2,0,0,bracket
